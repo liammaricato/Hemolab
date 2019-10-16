@@ -1,0 +1,543 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{F72E6653-1AC7-4D45-8A88-FCE8C5E686B5}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>prj_Hemolab</RootNamespace>
+    <AssemblyName>prj_Hemolab</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\..\..\..\..\..\Desktop\Microsoft.Office.Interop.Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=6.6.5.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>DLLs\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="Spire.License, Version=1.3.2.40, Culture=neutral, PublicKeyToken=b1144360237c8b3f, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Spire.License.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Classes\clsAbreForm.cs" />
+    <Compile Include="Classes\clsDadosGerais.cs" />
+    <Compile Include="Classes\clsExcel.cs" />
+    <Compile Include="Classes\clsFuncoes.cs" />
+    <Compile Include="Classes\clsValidar.cs" />
+    <Compile Include="Distribuicao\frmRegistrarSaida.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Distribuicao\frmRegistrarSaida.Designer.cs">
+      <DependentUpon>frmRegistrarSaida.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Distribuicao\frmBuscarBolsa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Distribuicao\frmBuscarBolsa.Designer.cs">
+      <DependentUpon>frmBuscarBolsa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Email\frmVerificarEmail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Email\frmVerificarEmail.Designer.cs">
+      <DependentUpon>frmVerificarEmail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Estoque_de_Bolsas\frmNotificacaoBolsa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Estoque_de_Bolsas\frmNotificacaoBolsa.Designer.cs">
+      <DependentUpon>frmNotificacaoBolsa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Estoque_de_Bolsas\frmEstoque.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Estoque_de_Bolsas\frmEstoque.Designer.cs">
+      <DependentUpon>frmEstoque.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fracionamento\frmFracionamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fracionamento\frmFracionamento.Designer.cs">
+      <DependentUpon>frmFracionamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fracionamento\frmRegistrarFracionamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fracionamento\frmRegistrarFracionamento.Designer.cs">
+      <DependentUpon>frmRegistrarFracionamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAdministrador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAdministrador.Designer.cs">
+      <DependentUpon>frmAdministrador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Email\frmEmailDoador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Email\frmEmailDoador.Designer.cs">
+      <DependentUpon>frmEmailDoador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Funcionario\frmEditarFuncionario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Funcionario\frmEditarFuncionario.Designer.cs">
+      <DependentUpon>frmEditarFuncionario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Funcionario\frmFuncionarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Funcionario\frmFuncionarios.Designer.cs">
+      <DependentUpon>frmFuncionarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPrincipal.Designer.cs">
+      <DependentUpon>frmPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Funcionario\frmNovoFuncionario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Funcionario\frmNovoFuncionario.Designer.cs">
+      <DependentUpon>frmNovoFuncionario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Funcionario\frmTrocarSenha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Funcionario\frmTrocarSenha.Designer.cs">
+      <DependentUpon>frmTrocarSenha.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ImunoHematologia\frmImunoHematologia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ImunoHematologia\frmImunoHematologia.Designer.cs">
+      <DependentUpon>frmImunoHematologia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ImunoHematologia\frmRegistrarImunoHematologia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ImunoHematologia\frmRegistrarImunoHematologia.Designer.cs">
+      <DependentUpon>frmRegistrarImunoHematologia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pre_Triagem\frmConfirmarPreTriagem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pre_Triagem\frmConfirmarPreTriagem.Designer.cs">
+      <DependentUpon>frmConfirmarPreTriagem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pre_Triagem\frmPreTriagem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pre_Triagem\frmPreTriagem.Designer.cs">
+      <DependentUpon>frmPreTriagem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pre_Triagem\frmPreTriagemDoador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pre_Triagem\frmPreTriagemDoador.designer.cs">
+      <DependentUpon>frmPreTriagemDoador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Recepcao\frmBuscarDoador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Recepcao\frmBuscarDoador.designer.cs">
+      <DependentUpon>frmBuscarDoador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Recepcao\frmCadastrarDoador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Recepcao\frmCadastrarDoador.designer.cs">
+      <DependentUpon>frmCadastrarDoador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Recepcao\frmNovaDoacao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Recepcao\frmNovaDoacao.designer.cs">
+      <DependentUpon>frmNovaDoacao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Recepcao\frmRecepcao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Recepcao\frmRecepcao.designer.cs">
+      <DependentUpon>frmRecepcao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Recepcao\Historico\frmHistorico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Recepcao\Historico\frmHistorico.Designer.cs">
+      <DependentUpon>frmHistorico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Recepcao\Historico\frmSelecionarHistorico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Recepcao\Historico\frmSelecionarHistorico.Designer.cs">
+      <DependentUpon>frmSelecionarHistorico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorios\frmRelatoriosDoacoes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios\frmRelatoriosDoacoes.designer.cs">
+      <DependentUpon>frmRelatoriosDoacoes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sala_de_Coleta\frmBolsaColetada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sala_de_Coleta\frmBolsaColetada.designer.cs">
+      <DependentUpon>frmBolsaColetada.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sala_de_Coleta\frmSalaDeColeta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sala_de_Coleta\frmSalaDeColeta.Designer.cs">
+      <DependentUpon>frmSalaDeColeta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sorologia\frmResultadosSorologia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sorologia\frmResultadosSorologia.Designer.cs">
+      <DependentUpon>frmResultadosSorologia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sorologia\frmSorologia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sorologia\frmSorologia.Designer.cs">
+      <DependentUpon>frmSorologia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Triagem\frmTriagem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Triagem\frmTriagem.Designer.cs">
+      <DependentUpon>frmTriagem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Triagem\frmTriagemDoador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Triagem\frmTriagemDoador.designer.cs">
+      <DependentUpon>frmTriagemDoador.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Distribuicao\frmRegistrarSaida.resx">
+      <DependentUpon>frmRegistrarSaida.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Distribuicao\frmBuscarBolsa.resx">
+      <DependentUpon>frmBuscarBolsa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Email\frmVerificarEmail.resx">
+      <DependentUpon>frmVerificarEmail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Estoque_de_Bolsas\frmNotificacaoBolsa.resx">
+      <DependentUpon>frmNotificacaoBolsa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Estoque_de_Bolsas\frmEstoque.resx">
+      <DependentUpon>frmEstoque.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fracionamento\frmFracionamento.resx">
+      <DependentUpon>frmFracionamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fracionamento\frmRegistrarFracionamento.resx">
+      <DependentUpon>frmRegistrarFracionamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAdministrador.resx">
+      <DependentUpon>frmAdministrador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Email\frmEmailDoador.resx">
+      <DependentUpon>frmEmailDoador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Funcionario\frmEditarFuncionario.resx">
+      <DependentUpon>frmEditarFuncionario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Funcionario\frmFuncionarios.resx">
+      <DependentUpon>frmFuncionarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPrincipal.resx">
+      <DependentUpon>frmPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Funcionario\frmNovoFuncionario.resx">
+      <DependentUpon>frmNovoFuncionario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Funcionario\frmTrocarSenha.resx">
+      <DependentUpon>frmTrocarSenha.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ImunoHematologia\frmImunoHematologia.resx">
+      <DependentUpon>frmImunoHematologia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ImunoHematologia\frmRegistrarImunoHematologia.resx">
+      <DependentUpon>frmRegistrarImunoHematologia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pre_Triagem\frmConfirmarPreTriagem.resx">
+      <DependentUpon>frmConfirmarPreTriagem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pre_Triagem\frmPreTriagem.resx">
+      <DependentUpon>frmPreTriagem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pre_Triagem\frmPreTriagemDoador.resx">
+      <DependentUpon>frmPreTriagemDoador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Recepcao\frmBuscarDoador.resx">
+      <DependentUpon>frmBuscarDoador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Recepcao\frmCadastrarDoador.resx">
+      <DependentUpon>frmCadastrarDoador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Recepcao\frmNovaDoacao.resx">
+      <DependentUpon>frmNovaDoacao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Recepcao\frmRecepcao.resx">
+      <DependentUpon>frmRecepcao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Recepcao\Historico\frmHistorico.resx">
+      <DependentUpon>frmHistorico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Recepcao\Historico\frmSelecionarHistorico.resx">
+      <DependentUpon>frmSelecionarHistorico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\frmRelatoriosDoacoes.resx">
+      <DependentUpon>frmRelatoriosDoacoes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sala_de_Coleta\frmBolsaColetada.resx">
+      <DependentUpon>frmBolsaColetada.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sala_de_Coleta\frmSalaDeColeta.resx">
+      <DependentUpon>frmSalaDeColeta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sorologia\frmResultadosSorologia.resx">
+      <DependentUpon>frmResultadosSorologia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sorologia\frmSorologia.resx">
+      <DependentUpon>frmSorologia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Triagem\frmTriagem.resx">
+      <DependentUpon>frmTriagem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Triagem\frmTriagemDoador.resx">
+      <DependentUpon>frmTriagemDoador.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo_mascara.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LOGOtipo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tela_fundo5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tela_fundo6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tela_login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tela_login2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tela_login3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tela_login4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fundo_marcara.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo_mascara2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Botao_Menu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Botao_Menu1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hemolab.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Usuario.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Usuario1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Usuario2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logoteste.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fundo_login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="DLLs\MySql.Data.dll" />
+    <None Include="Resources\pretriagem.png" />
+    <None Include="Resources\relatorios1.png" />
+    <None Include="Resources\triagem.png" />
+    <None Include="Resources\mandar.png" />
+    <None Include="Resources\remover2.png" />
+    <None Include="Resources\remover1.png" />
+    <None Include="Resources\removertodos.png" />
+    <None Include="Resources\mandartodos.png" />
+    <None Include="Resources\emailspendentes1.png" />
+    <None Include="Resources\emailspendentes.png" />
+    <None Include="Resources\ver1.png" />
+    <None Include="Resources\ver.png" />
+    <None Include="Resources\excluir.png" />
+    <None Include="Resources\novofuncionario.png" />
+    <None Include="Resources\xfinalagoravai2.png" />
+    <None Include="Resources\imunohematologia.png" />
+    <None Include="Resources\sorologia.png" />
+    <None Include="Resources\estoque.png" />
+    <None Include="Resources\distribuicao1.png" />
+    <None Include="Resources\distribuicao.png" />
+    <None Include="Resources\saladecoleta.png" />
+    <None Include="Resources\recepcao.png" />
+    <None Include="Resources\relatorios.png" />
+    <None Include="Resources\funcionarios.png" />
+    <None Include="Resources\novadoacao21.png" />
+    <None Include="Resources\editar2.png" />
+    <None Include="Resources\historico.png" />
+    <None Include="Resources\xfinalagoravai.png" />
+    <None Include="Resources\concluir1.png" />
+    <None Include="Resources\borda2.png" />
+    <None Include="Resources\novadoacao3.png" />
+    <None Include="Resources\doador1.png" />
+    <None Include="Resources\bordaretangular.png" />
+    <None Include="Resources\cancelar2.png" />
+    <None Include="Resources\feito2.png" />
+    <None Include="Resources\feito1.png" />
+    <None Include="Resources\cancelardoacao.png" />
+    <None Include="Resources\concluircomsucesso.png" />
+    <None Include="Resources\concluirsemsucesso.png" />
+    <None Include="Resources\reprovar1.png" />
+    <None Include="Resources\aprovar1.png" />
+    <None Include="Resources\remover.png" />
+    <None Include="Resources\confirmar2.png" />
+    <None Include="Resources\confirmarsaida.png" />
+    <None Include="Resources\registrarsaida1.png" />
+    <None Include="Resources\buscar1.png" />
+    <None Include="Resources\buscarbolsa.png" />
+    <None Include="Resources\registrarsaida.png" />
+    <None Include="Resources\mais.png" />
+    <None Include="Resources\historicodedoacoes1.png" />
+    <None Include="Resources\historicodedoacoes.png" />
+    <None Include="Resources\x_preto.png" />
+    <None Include="Resources\x.png" />
+    <None Include="Resources\requisitarbolsa.png" />
+    <None Include="Resources\registrarreserva.png" />
+    <None Include="Resources\salvar.png" />
+    <None Include="Resources\buscar.png" />
+    <None Include="Resources\reprovar.png" />
+    <None Include="Resources\aprovar.png" />
+    <None Include="Resources\feito.png" />
+    <None Include="Resources\concluir.png" />
+    <None Include="Resources\fracionamento.png" />
+    <None Include="Resources\etiqueta.png" />
+    <None Include="Resources\imprimiretiquetas.png" />
+    <None Include="Resources\imprimiretiqueta.png" />
+    <None Include="Resources\prosseguir.png" />
+    <None Include="Resources\redcross.png" />
+    <None Include="Resources\concluircadastrodoador.png" />
+    <None Include="Resources\cadastrardoador1.png" />
+    <None Include="Resources\voltar_preto2.png" />
+    <None Include="Resources\cancelar.png" />
+    <None Include="Resources\confirmar.png" />
+    <None Include="Resources\editar.png" />
+    <None Include="Resources\novadoacao.png" />
+    <None Include="Resources\voltar_preto1.png" />
+    <None Include="Resources\voltar_preto.png" />
+    <None Include="Resources\voltar.png" />
+    <None Include="Resources\doador.png" />
+    <None Include="Resources\doacao.png" />
+    <None Include="Resources\concluircadastrodoacao.png" />
+    <None Include="Resources\concluircadastro.png" />
+    <None Include="Resources\cadastrardoador.png" />
+    <None Include="Resources\cadastrardoacao.png" />
+    <None Include="Resources\buscardoador.png" />
+    <None Include="Resources\buscardoacao.png" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

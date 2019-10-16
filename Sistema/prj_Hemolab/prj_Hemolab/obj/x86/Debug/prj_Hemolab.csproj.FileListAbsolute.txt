@@ -1,0 +1,1557 @@
+c:\users\aluno.etecaf\documents\visual studio 2010\Projects\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.exe
+c:\users\aluno.etecaf\documents\visual studio 2010\Projects\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.pdb
+c:\users\aluno.etecaf\documents\visual studio 2010\Projects\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frm_Login.resources
+c:\users\aluno.etecaf\documents\visual studio 2010\Projects\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frm_Splash.resources
+c:\users\aluno.etecaf\documents\visual studio 2010\Projects\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Properties.Resources.resources
+c:\users\aluno.etecaf\documents\visual studio 2010\Projects\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csproj.GenerateResource.Cache
+c:\users\aluno.etecaf\documents\visual studio 2010\Projects\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.exe
+c:\users\aluno.etecaf\documents\visual studio 2010\Projects\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.pdb
+L:\TCC\HEMOLAB\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.exe
+L:\TCC\HEMOLAB\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.pdb
+L:\TCC\HEMOLAB\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.exe
+L:\TCC\HEMOLAB\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.pdb
+L:\TCC\HEMOLAB\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frm_Login.resources
+L:\TCC\HEMOLAB\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frm_Splash.resources
+L:\TCC\HEMOLAB\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Properties.Resources.resources
+L:\TCC\HEMOLAB\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csproj.GenerateResource.Cache
+L:\TCC\HEMOLAB\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Form1.resources
+I:\TCC\MATERIAL - 3ºM\HEMOLAB\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.exe
+I:\TCC\MATERIAL - 3ºM\HEMOLAB\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.pdb
+I:\TCC\MATERIAL - 3ºM\HEMOLAB\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.exe
+I:\TCC\MATERIAL - 3ºM\HEMOLAB\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.pdb
+I:\TCC\MATERIAL - 3ºM\HEMOLAB\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frm_Login.resources
+I:\TCC\MATERIAL - 3ºM\HEMOLAB\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frm_Splash.resources
+I:\TCC\MATERIAL - 3ºM\HEMOLAB\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Properties.Resources.resources
+I:\TCC\MATERIAL - 3ºM\HEMOLAB\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csproj.GenerateResource.Cache
+I:\TCC\MATERIAL - 3ºM\HEMOLAB\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Form1.resources
+I:\TCC\MATERIAL - 3ºM\HEMOLAB\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frm_Principal.resources
+H:\TCC\MATERIAL - 3ºM\HEMOLAB\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.exe
+H:\TCC\MATERIAL - 3ºM\HEMOLAB\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.pdb
+H:\TCC\MATERIAL - 3ºM\HEMOLAB\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.exe
+H:\TCC\MATERIAL - 3ºM\HEMOLAB\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.pdb
+H:\TCC\MATERIAL - 3ºM\HEMOLAB\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Properties.Resources.resources
+H:\TCC\MATERIAL - 3ºM\HEMOLAB\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csproj.GenerateResource.Cache
+H:\TCC\MATERIAL - 3ºM\HEMOLAB\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmPrincipal.resources
+H:\TCC\MATERIAL - 3ºM\HEMOLAB\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csprojResolveAssemblyReference.cache
+H:\TCC\MATERIAL - 3ºM\HEMOLAB\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmLogin.resources
+H:\TCC\MATERIAL - 3ºM\HEMOLAB\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmSplash.resources
+L:\TCC\MATERIAL - 3ºM\HEMOLAB\V1\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.exe
+L:\TCC\MATERIAL - 3ºM\HEMOLAB\V1\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.pdb
+L:\TCC\MATERIAL\MATERIAL - 3ºM\HEMOLAB\V1\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.exe
+L:\TCC\MATERIAL\MATERIAL - 3ºM\HEMOLAB\V1\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.pdb
+L:\TCC\MATERIAL\MATERIAL - 3ºM\HEMOLAB\V1\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.exe
+L:\TCC\MATERIAL\MATERIAL - 3ºM\HEMOLAB\V1\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.pdb
+L:\TCC\MATERIAL\MATERIAL - 3ºM\HEMOLAB\V1\prj_Hemolab\prj_Hemolab\bin\Debug\MySql.Data.dll
+L:\TCC\MATERIAL\MATERIAL - 3ºM\HEMOLAB\V1\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csprojResolveAssemblyReference.cache
+L:\TCC\MATERIAL\MATERIAL - 3ºM\HEMOLAB\V1\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmPrincipal.resources
+L:\TCC\MATERIAL\MATERIAL - 3ºM\HEMOLAB\V1\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmLogin.resources
+L:\TCC\MATERIAL\MATERIAL - 3ºM\HEMOLAB\V1\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmSplash.resources
+L:\TCC\MATERIAL\MATERIAL - 3ºM\HEMOLAB\V1\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Properties.Resources.resources
+L:\TCC\MATERIAL\MATERIAL - 3ºM\HEMOLAB\V1\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csproj.GenerateResource.Cache
+M:\TCC\MATERIAL\MATERIAL - 3ºM\HEMOLAB\V1\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.exe
+M:\TCC\MATERIAL\MATERIAL - 3ºM\HEMOLAB\V1\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.pdb
+F:\TCC\MATERIAL\MATERIAL - 3ºM\HEMOLAB\V1\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.exe
+F:\TCC\MATERIAL\MATERIAL - 3ºM\HEMOLAB\V1\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.pdb
+C:\Users\28922\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.exe
+C:\Users\28922\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.pdb
+C:\Users\28922\Desktop\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.exe
+C:\Users\28922\Desktop\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.pdb
+C:\Users\28922\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csprojResolveAssemblyReference.cache
+C:\Users\28922\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmPrincipal.resources
+C:\Users\28922\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmLogin.resources
+C:\Users\28922\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmSplash.resources
+C:\Users\28922\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Properties.Resources.resources
+C:\Users\28922\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csproj.GenerateResource.Cache
+C:\Users\28922\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmRecepcao.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\12_05 17h51\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.exe
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\12_05 17h51\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.pdb
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\12_05 17h51\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.exe
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\12_05 17h51\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.pdb
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\12_05 17h51\prj_Hemolab\prj_Hemolab\bin\Debug\MySql.Data.dll
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\12_05 17h51\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csprojResolveAssemblyReference.cache
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\12_05 17h51\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmPrincipal.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\12_05 17h51\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmLogin.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\12_05 17h51\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmDoacao.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\12_05 17h51\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmDoador.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\12_05 17h51\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmRecepcao.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\12_05 17h51\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmSplash.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\12_05 17h51\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Properties.Resources.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\12_05 17h51\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csproj.GenerateResource.Cache
+C:\Users\Liam\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.exe
+C:\Users\Liam\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.pdb
+C:\Users\Liam\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csprojResolveAssemblyReference.cache
+C:\Users\Liam\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmPrincipal.resources
+C:\Users\Liam\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmLogin.resources
+C:\Users\Liam\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmRecepcao.resources
+C:\Users\Liam\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmSplash.resources
+C:\Users\Liam\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Properties.Resources.resources
+C:\Users\Liam\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csproj.GenerateResource.Cache
+C:\Users\Liam\Desktop\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.exe
+C:\Users\Liam\Desktop\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.pdb
+C:\Users\Liam\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmCadastrarDoador.resources
+C:\Users\28922\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmCadastrarDoador.resources
+C:\Users\28922\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmNovaDoacao.resources
+C:\Users\28922\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmBuscarDoador.resources
+D:\TCC\HEMOLAB\05 - Projeto WindowsForm\13_05 17h58\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.exe
+D:\TCC\HEMOLAB\05 - Projeto WindowsForm\13_05 17h58\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.pdb
+D:\TCC\HEMOLAB\05 - Projeto WindowsForm\13_05 17h58\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csprojResolveAssemblyReference.cache
+D:\TCC\HEMOLAB\05 - Projeto WindowsForm\13_05 17h58\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmPrincipal.resources
+D:\TCC\HEMOLAB\05 - Projeto WindowsForm\13_05 17h58\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmLogin.resources
+D:\TCC\HEMOLAB\05 - Projeto WindowsForm\13_05 17h58\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmBuscarDoador.resources
+D:\TCC\HEMOLAB\05 - Projeto WindowsForm\13_05 17h58\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmNovaDoacao.resources
+D:\TCC\HEMOLAB\05 - Projeto WindowsForm\13_05 17h58\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmCadastrarDoador.resources
+D:\TCC\HEMOLAB\05 - Projeto WindowsForm\13_05 17h58\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmRecepcao.resources
+D:\TCC\HEMOLAB\05 - Projeto WindowsForm\13_05 17h58\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmSplash.resources
+D:\TCC\HEMOLAB\05 - Projeto WindowsForm\13_05 17h58\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Properties.Resources.resources
+D:\TCC\HEMOLAB\05 - Projeto WindowsForm\13_05 17h58\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csproj.GenerateResource.Cache
+D:\TCC\HEMOLAB\05 - Projeto WindowsForm\13_05 17h58\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.exe
+D:\TCC\HEMOLAB\05 - Projeto WindowsForm\13_05 17h58\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.pdb
+D:\TCC\HEMOLAB\05 - Projeto WindowsForm\13_05 17h58\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Distribuicao.frmDistribuicao.resources
+D:\TCC\HEMOLAB\05 - Projeto WindowsForm\13_05 17h58\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmFracionamento.resources
+D:\TCC\HEMOLAB\05 - Projeto WindowsForm\13_05 17h58\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmRegistrarFracionamento.resources
+D:\TCC\HEMOLAB\05 - Projeto WindowsForm\13_05 17h58\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Distribuicao.frmRegistrarDistribuicao.resources
+D:\TCC\HEMOLAB\05 - Projeto WindowsForm\13_05 17h58\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Distribuicao.frmMenuDistribuicao.resources
+D:\TCC\HEMOLAB\05 - Projeto WindowsForm\13_05 17h58\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmMenuFracionamento.resources
+D:\TCC\HEMOLAB\05 - Projeto WindowsForm\13_05 17h58\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmImprimirEtiqueta.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\13_05 17h58\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.exe
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\13_05 17h58\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.pdb
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\13_05 17h58\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.exe
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\13_05 17h58\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.pdb
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\13_05 17h58\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csprojResolveAssemblyReference.cache
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\13_05 17h58\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Distribuicao.frmDistribuicao.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\13_05 17h58\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Distribuicao.frmMenuDistribuicao.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\13_05 17h58\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Distribuicao.frmRegistrarDistribuicao.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\13_05 17h58\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmFracionamento.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\13_05 17h58\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmImprimirEtiqueta.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\13_05 17h58\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmMenuFracionamento.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\13_05 17h58\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmRegistrarFracionamento.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\13_05 17h58\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmPrincipal.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\13_05 17h58\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmLogin.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\13_05 17h58\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmBuscarDoador.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\13_05 17h58\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmNovaDoacao.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\13_05 17h58\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmCadastrarDoador.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\13_05 17h58\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmRecepcao.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\13_05 17h58\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmSplash.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\13_05 17h58\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Properties.Resources.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\13_05 17h58\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csproj.GenerateResource.Cache
+C:\Users\aluno.ETECAF\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.exe
+C:\Users\aluno.ETECAF\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.pdb
+C:\Users\aluno.ETECAF\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csprojResolveAssemblyReference.cache
+C:\Users\aluno.ETECAF\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Distribuicao.frmDistribuicao.resources
+C:\Users\aluno.ETECAF\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Distribuicao.frmMenuDistribuicao.resources
+C:\Users\aluno.ETECAF\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Distribuicao.frmRegistrarDistribuicao.resources
+C:\Users\aluno.ETECAF\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Estoque_de_Bolsas.frmEncaminharBolsa.resources
+C:\Users\aluno.ETECAF\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Estoque_de_Bolsas.frmEstoque.resources
+C:\Users\aluno.ETECAF\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmFracionamento.resources
+C:\Users\aluno.ETECAF\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmImprimirEtiqueta.resources
+C:\Users\aluno.ETECAF\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmMenuFracionamento.resources
+C:\Users\aluno.ETECAF\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmRegistrarFracionamento.resources
+C:\Users\aluno.ETECAF\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmPrincipal.resources
+C:\Users\aluno.ETECAF\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmLogin.resources
+C:\Users\aluno.ETECAF\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmPreTriagem.resources
+C:\Users\aluno.ETECAF\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmPreTriagemDoador.resources
+C:\Users\aluno.ETECAF\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmBuscarDoador.resources
+C:\Users\aluno.ETECAF\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmNovaDoacao.resources
+C:\Users\aluno.ETECAF\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmCadastrarDoador.resources
+C:\Users\aluno.ETECAF\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmRecepcao.resources
+C:\Users\aluno.ETECAF\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmSplash.resources
+C:\Users\aluno.ETECAF\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Properties.Resources.resources
+C:\Users\aluno.ETECAF\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sala_de_Coleta.frmBolsaColetada.resources
+C:\Users\aluno.ETECAF\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sala_de_Coleta.frmSalaDeColeta.resources
+C:\Users\aluno.ETECAF\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Triagem.frmTriagem.resources
+C:\Users\aluno.ETECAF\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Triagem.frmTriagemDoador.resources
+C:\Users\aluno.ETECAF\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csproj.GenerateResource.Cache
+C:\Users\aluno.ETECAF\Desktop\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.exe
+C:\Users\aluno.ETECAF\Desktop\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.pdb
+C:\Users\Liam\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Estoque_de_Bolsas.frmEncaminharBolsa.resources
+C:\Users\Liam\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Estoque_de_Bolsas.frmEstoque.resources
+C:\Users\Liam\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmFracionamento.resources
+C:\Users\Liam\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmImprimirEtiqueta.resources
+C:\Users\Liam\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmMenuFracionamento.resources
+C:\Users\Liam\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmRegistrarFracionamento.resources
+C:\Users\Liam\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmPreTriagem.resources
+C:\Users\Liam\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmPreTriagemDoador.resources
+C:\Users\Liam\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmBuscarDoador.resources
+C:\Users\Liam\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmNovaDoacao.resources
+C:\Users\Liam\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sala_de_Coleta.frmBolsaColetada.resources
+C:\Users\Liam\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sala_de_Coleta.frmSalaDeColeta.resources
+C:\Users\Liam\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Triagem.frmTriagem.resources
+C:\Users\Liam\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Triagem.frmTriagemDoador.resources
+C:\Users\Liam\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sorologia.frmResultadosSorologia.resources
+C:\Users\Liam\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sorologia.frmSorologia.resources
+L:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.exe
+L:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.pdb
+L:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csprojResolveAssemblyReference.cache
+L:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Distribuicao.frmMenuDistribuicao.resources
+L:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Distribuicao.frmRegistrarReserva.resources
+L:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Distribuicao.frmRequisitarBolsa.resources
+L:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Estoque_de_Bolsas.frmEncaminharBolsa.resources
+L:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Estoque_de_Bolsas.frmEstoque.resources
+L:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmFracionamento.resources
+L:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmImprimirEtiqueta.resources
+L:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmMenuFracionamento.resources
+L:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmRegistrarFracionamento.resources
+L:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmPrincipal.resources
+L:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmLogin.resources
+L:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmPreTriagem.resources
+L:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmPreTriagemDoador.resources
+L:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmBuscarDoador.resources
+L:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmNovaDoacao.resources
+L:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmCadastrarDoador.resources
+L:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmRecepcao.resources
+L:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmSplash.resources
+L:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Properties.Resources.resources
+L:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sala_de_Coleta.frmBolsaColetada.resources
+L:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sala_de_Coleta.frmSalaDeColeta.resources
+L:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sorologia.frmResultadosSorologia.resources
+L:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sorologia.frmSorologia.resources
+L:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Triagem.frmTriagem.resources
+L:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Triagem.frmTriagemDoador.resources
+L:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csproj.GenerateResource.Cache
+L:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.exe
+L:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.pdb
+L:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\bin\Debug\MySql.Data.dll
+G:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.exe
+G:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.pdb
+G:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csprojResolveAssemblyReference.cache
+G:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Distribuicao.frmMenuDistribuicao.resources
+G:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Distribuicao.frmRegistrarReserva.resources
+G:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Distribuicao.frmRequisitarBolsa.resources
+G:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Estoque_de_Bolsas.frmEncaminharBolsa.resources
+G:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Estoque_de_Bolsas.frmEstoque.resources
+G:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmFracionamento.resources
+G:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmImprimirEtiqueta.resources
+G:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmMenuFracionamento.resources
+G:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmRegistrarFracionamento.resources
+G:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmPrincipal.resources
+G:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmLogin.resources
+G:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmPreTriagem.resources
+G:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmPreTriagemDoador.resources
+G:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmBuscarDoador.resources
+G:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmNovaDoacao.resources
+G:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmCadastrarDoador.resources
+G:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmRecepcao.resources
+G:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmSplash.resources
+G:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Properties.Resources.resources
+G:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sala_de_Coleta.frmBolsaColetada.resources
+G:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sala_de_Coleta.frmSalaDeColeta.resources
+G:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sorologia.frmResultadosSorologia.resources
+G:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sorologia.frmSorologia.resources
+G:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Triagem.frmTriagem.resources
+G:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Triagem.frmTriagemDoador.resources
+G:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csproj.GenerateResource.Cache
+G:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.exe
+G:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.pdb
+D:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.exe
+D:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.pdb
+D:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.exe
+D:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.pdb
+D:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csprojResolveAssemblyReference.cache
+D:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Distribuicao.frmMenuDistribuicao.resources
+D:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Distribuicao.frmRegistrarReserva.resources
+D:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Distribuicao.frmRequisitarBolsa.resources
+D:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Estoque_de_Bolsas.frmEncaminharBolsa.resources
+D:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Estoque_de_Bolsas.frmEstoque.resources
+D:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmFracionamento.resources
+D:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmImprimirEtiqueta.resources
+D:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmMenuFracionamento.resources
+D:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmRegistrarFracionamento.resources
+D:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmPrincipal.resources
+D:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmLogin.resources
+D:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmPreTriagem.resources
+D:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmPreTriagemDoador.resources
+D:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmBuscarDoador.resources
+D:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmNovaDoacao.resources
+D:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmCadastrarDoador.resources
+D:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmRecepcao.resources
+D:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmSplash.resources
+D:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Properties.Resources.resources
+D:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sala_de_Coleta.frmBolsaColetada.resources
+D:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sala_de_Coleta.frmSalaDeColeta.resources
+D:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sorologia.frmResultadosSorologia.resources
+D:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sorologia.frmSorologia.resources
+D:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Triagem.frmTriagem.resources
+D:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Triagem.frmTriagemDoador.resources
+D:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\17_05 12h33\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csproj.GenerateResource.Cache
+J:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\Tentativa MDI\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.exe
+J:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\Tentativa MDI\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.pdb
+J:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\Tentativa MDI\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.exe
+J:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\Tentativa MDI\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.pdb
+J:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\Tentativa MDI\prj_Hemolab\prj_Hemolab\bin\Debug\MySql.Data.dll
+J:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\Tentativa MDI\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csprojResolveAssemblyReference.cache
+J:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\Tentativa MDI\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Distribuicao.frmMenuDistribuicao.resources
+J:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\Tentativa MDI\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Distribuicao.frmRegistrarReserva.resources
+J:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\Tentativa MDI\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Distribuicao.frmRequisitarBolsa.resources
+J:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\Tentativa MDI\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Estoque_de_Bolsas.frmEncaminharBolsa.resources
+J:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\Tentativa MDI\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Estoque_de_Bolsas.frmEstoque.resources
+J:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\Tentativa MDI\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmFracionamento.resources
+J:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\Tentativa MDI\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmImprimirEtiqueta.resources
+J:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\Tentativa MDI\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmMenuFracionamento.resources
+J:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\Tentativa MDI\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmRegistrarFracionamento.resources
+J:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\Tentativa MDI\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmPrincipal.resources
+J:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\Tentativa MDI\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmLogin.resources
+J:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\Tentativa MDI\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmPreTriagem.resources
+J:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\Tentativa MDI\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmPreTriagemDoador.resources
+J:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\Tentativa MDI\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmBuscarDoador.resources
+J:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\Tentativa MDI\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmNovaDoacao.resources
+J:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\Tentativa MDI\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmCadastrarDoador.resources
+J:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\Tentativa MDI\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmRecepcao.resources
+J:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\Tentativa MDI\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmSplash.resources
+J:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\Tentativa MDI\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Properties.Resources.resources
+J:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\Tentativa MDI\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sala_de_Coleta.frmBolsaColetada.resources
+J:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\Tentativa MDI\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sala_de_Coleta.frmSalaDeColeta.resources
+J:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\Tentativa MDI\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sorologia.frmResultadosSorologia.resources
+J:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\Tentativa MDI\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sorologia.frmSorologia.resources
+J:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\Tentativa MDI\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Triagem.frmTriagem.resources
+J:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\Tentativa MDI\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Triagem.frmTriagemDoador.resources
+J:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\Tentativa MDI\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csproj.GenerateResource.Cache
+F:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\Tentativa MDI\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.exe
+F:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\Tentativa MDI\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.pdb
+F:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\Tentativa MDI\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csprojResolveAssemblyReference.cache
+F:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\Tentativa MDI\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Distribuicao.frmMenuDistribuicao.resources
+F:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\Tentativa MDI\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Distribuicao.frmRegistrarReserva.resources
+F:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\Tentativa MDI\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Distribuicao.frmRequisitarBolsa.resources
+F:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\Tentativa MDI\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Estoque_de_Bolsas.frmEncaminharBolsa.resources
+F:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\Tentativa MDI\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Estoque_de_Bolsas.frmEstoque.resources
+F:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\Tentativa MDI\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmFracionamento.resources
+F:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\Tentativa MDI\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmImprimirEtiqueta.resources
+F:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\Tentativa MDI\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmMenuFracionamento.resources
+F:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\Tentativa MDI\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmRegistrarFracionamento.resources
+F:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\Tentativa MDI\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmPrincipal.resources
+F:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\Tentativa MDI\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmLogin.resources
+F:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\Tentativa MDI\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmPreTriagem.resources
+F:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\Tentativa MDI\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmPreTriagemDoador.resources
+F:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\Tentativa MDI\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmBuscarDoador.resources
+F:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\Tentativa MDI\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmNovaDoacao.resources
+F:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\Tentativa MDI\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmCadastrarDoador.resources
+F:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\Tentativa MDI\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmRecepcao.resources
+F:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\Tentativa MDI\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmSplash.resources
+F:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\Tentativa MDI\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Properties.Resources.resources
+F:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\Tentativa MDI\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sala_de_Coleta.frmBolsaColetada.resources
+F:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\Tentativa MDI\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sala_de_Coleta.frmSalaDeColeta.resources
+F:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\Tentativa MDI\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sorologia.frmResultadosSorologia.resources
+F:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\Tentativa MDI\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sorologia.frmSorologia.resources
+F:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\Tentativa MDI\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Triagem.frmTriagem.resources
+F:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\Tentativa MDI\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Triagem.frmTriagemDoador.resources
+F:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\Tentativa MDI\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csproj.GenerateResource.Cache
+F:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\Tentativa MDI\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.exe
+F:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\Tentativa MDI\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.pdb
+F:\ \TCC\HEMOLAB\05 - Projeto WindowsForm\Tentativa MDI\prj_Hemolab\prj_Hemolab\bin\Debug\MySql.Data.dll
+C:\Users\Liam\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Distribuicao.frmRegistrarSaida.resources
+C:\Users\Liam\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Distribuicao.frmBuscarBolsa.resources
+C:\Users\Liam\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Hematologia.frmHematologia.resources
+C:\Users\Liam\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Hematologia.frmRegistrarHematologia.resources
+C:\Users\Liam\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.ImunoHematologia.frmImunoHematologia.resources
+C:\Users\Liam\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.ImunoHematologia.frmRegistrarImunoHematologia.resources
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\31_05 12h09\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.exe
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\31_05 12h09\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.pdb
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\31_05 12h09\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.exe
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\31_05 12h09\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.pdb
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\31_05 12h09\prj_Hemolab\prj_Hemolab\bin\Debug\MySql.Data.dll
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\31_05 12h09\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csprojResolveAssemblyReference.cache
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\31_05 12h09\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Distribuicao.frmRegistrarSaida.resources
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\31_05 12h09\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Distribuicao.frmBuscarBolsa.resources
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\31_05 12h09\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Estoque_de_Bolsas.frmEncaminharBolsa.resources
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\31_05 12h09\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Estoque_de_Bolsas.frmEstoque.resources
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\31_05 12h09\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmFracionamento.resources
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\31_05 12h09\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmImprimirEtiqueta.resources
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\31_05 12h09\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmMenuFracionamento.resources
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\31_05 12h09\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmRegistrarFracionamento.resources
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\31_05 12h09\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmPrincipal.resources
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\31_05 12h09\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmLogin.resources
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\31_05 12h09\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Hematologia.frmHematologia.resources
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\31_05 12h09\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Hematologia.frmRegistrarHematologia.resources
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\31_05 12h09\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.ImunoHematologia.frmImunoHematologia.resources
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\31_05 12h09\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.ImunoHematologia.frmRegistrarImunoHematologia.resources
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\31_05 12h09\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmPreTriagem.resources
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\31_05 12h09\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmPreTriagemDoador.resources
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\31_05 12h09\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmBuscarDoador.resources
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\31_05 12h09\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmNovaDoacao.resources
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\31_05 12h09\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmCadastrarDoador.resources
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\31_05 12h09\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmRecepcao.resources
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\31_05 12h09\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmSplash.resources
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\31_05 12h09\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Properties.Resources.resources
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\31_05 12h09\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sala_de_Coleta.frmBolsaColetada.resources
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\31_05 12h09\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sala_de_Coleta.frmSalaDeColeta.resources
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\31_05 12h09\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sorologia.frmResultadosSorologia.resources
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\31_05 12h09\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sorologia.frmSorologia.resources
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\31_05 12h09\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Triagem.frmTriagem.resources
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\31_05 12h09\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Triagem.frmTriagemDoador.resources
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\31_05 12h09\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csproj.GenerateResource.Cache
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\31_05 12h09\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.exe
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\31_05 12h09\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.pdb
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\31_05 12h09\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.exe
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\31_05 12h09\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.pdb
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\31_05 12h09\prj_Hemolab\prj_Hemolab\bin\Debug\MySql.Data.dll
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\31_05 12h09\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csprojResolveAssemblyReference.cache
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\31_05 12h09\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Distribuicao.frmRegistrarSaida.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\31_05 12h09\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Distribuicao.frmBuscarBolsa.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\31_05 12h09\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Estoque_de_Bolsas.frmEncaminharBolsa.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\31_05 12h09\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Estoque_de_Bolsas.frmEstoque.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\31_05 12h09\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmFracionamento.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\31_05 12h09\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmImprimirEtiqueta.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\31_05 12h09\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmMenuFracionamento.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\31_05 12h09\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmRegistrarFracionamento.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\31_05 12h09\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmPrincipal.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\31_05 12h09\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmLogin.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\31_05 12h09\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Hematologia.frmHematologia.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\31_05 12h09\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Hematologia.frmRegistrarHematologia.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\31_05 12h09\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.ImunoHematologia.frmImunoHematologia.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\31_05 12h09\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.ImunoHematologia.frmRegistrarImunoHematologia.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\31_05 12h09\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmPreTriagem.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\31_05 12h09\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmPreTriagemDoador.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\31_05 12h09\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmBuscarDoador.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\31_05 12h09\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmNovaDoacao.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\31_05 12h09\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmCadastrarDoador.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\31_05 12h09\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmRecepcao.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\31_05 12h09\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmSplash.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\31_05 12h09\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Properties.Resources.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\31_05 12h09\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sala_de_Coleta.frmBolsaColetada.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\31_05 12h09\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sala_de_Coleta.frmSalaDeColeta.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\31_05 12h09\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sorologia.frmResultadosSorologia.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\31_05 12h09\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sorologia.frmSorologia.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\31_05 12h09\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Triagem.frmTriagem.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\31_05 12h09\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Triagem.frmTriagemDoador.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\31_05 12h09\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csproj.GenerateResource.Cache
+L:\TCC\HEMOLAB\05 - Projeto WindowsForm\01_06 12h28\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.exe
+L:\TCC\HEMOLAB\05 - Projeto WindowsForm\01_06 12h28\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.pdb
+L:\TCC\HEMOLAB\05 - Projeto WindowsForm\01_06 12h28\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.exe
+L:\TCC\HEMOLAB\05 - Projeto WindowsForm\01_06 12h28\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.pdb
+L:\TCC\HEMOLAB\05 - Projeto WindowsForm\01_06 12h28\prj_Hemolab\prj_Hemolab\bin\Debug\MySql.Data.dll
+L:\TCC\HEMOLAB\05 - Projeto WindowsForm\01_06 12h28\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csprojResolveAssemblyReference.cache
+L:\TCC\HEMOLAB\05 - Projeto WindowsForm\01_06 12h28\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Distribuicao.frmRegistrarSaida.resources
+L:\TCC\HEMOLAB\05 - Projeto WindowsForm\01_06 12h28\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Distribuicao.frmBuscarBolsa.resources
+L:\TCC\HEMOLAB\05 - Projeto WindowsForm\01_06 12h28\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Estoque_de_Bolsas.frmEncaminharBolsa.resources
+L:\TCC\HEMOLAB\05 - Projeto WindowsForm\01_06 12h28\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Estoque_de_Bolsas.frmEstoque.resources
+L:\TCC\HEMOLAB\05 - Projeto WindowsForm\01_06 12h28\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmFracionamento.resources
+L:\TCC\HEMOLAB\05 - Projeto WindowsForm\01_06 12h28\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmImprimirEtiqueta.resources
+L:\TCC\HEMOLAB\05 - Projeto WindowsForm\01_06 12h28\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmMenuFracionamento.resources
+L:\TCC\HEMOLAB\05 - Projeto WindowsForm\01_06 12h28\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmRegistrarFracionamento.resources
+L:\TCC\HEMOLAB\05 - Projeto WindowsForm\01_06 12h28\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmPrincipal.resources
+L:\TCC\HEMOLAB\05 - Projeto WindowsForm\01_06 12h28\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmLogin.resources
+L:\TCC\HEMOLAB\05 - Projeto WindowsForm\01_06 12h28\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Hematologia.frmHematologia.resources
+L:\TCC\HEMOLAB\05 - Projeto WindowsForm\01_06 12h28\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Hematologia.frmRegistrarHematologia.resources
+L:\TCC\HEMOLAB\05 - Projeto WindowsForm\01_06 12h28\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.ImunoHematologia.frmImunoHematologia.resources
+L:\TCC\HEMOLAB\05 - Projeto WindowsForm\01_06 12h28\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.ImunoHematologia.frmRegistrarImunoHematologia.resources
+L:\TCC\HEMOLAB\05 - Projeto WindowsForm\01_06 12h28\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmPreTriagem.resources
+L:\TCC\HEMOLAB\05 - Projeto WindowsForm\01_06 12h28\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmPreTriagemDoador.resources
+L:\TCC\HEMOLAB\05 - Projeto WindowsForm\01_06 12h28\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmBuscarDoador.resources
+L:\TCC\HEMOLAB\05 - Projeto WindowsForm\01_06 12h28\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmNovaDoacao.resources
+L:\TCC\HEMOLAB\05 - Projeto WindowsForm\01_06 12h28\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmCadastrarDoador.resources
+L:\TCC\HEMOLAB\05 - Projeto WindowsForm\01_06 12h28\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmRecepcao.resources
+L:\TCC\HEMOLAB\05 - Projeto WindowsForm\01_06 12h28\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmSplash.resources
+L:\TCC\HEMOLAB\05 - Projeto WindowsForm\01_06 12h28\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Properties.Resources.resources
+L:\TCC\HEMOLAB\05 - Projeto WindowsForm\01_06 12h28\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sala_de_Coleta.frmBolsaColetada.resources
+L:\TCC\HEMOLAB\05 - Projeto WindowsForm\01_06 12h28\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sala_de_Coleta.frmSalaDeColeta.resources
+L:\TCC\HEMOLAB\05 - Projeto WindowsForm\01_06 12h28\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sorologia.frmResultadosSorologia.resources
+L:\TCC\HEMOLAB\05 - Projeto WindowsForm\01_06 12h28\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sorologia.frmSorologia.resources
+L:\TCC\HEMOLAB\05 - Projeto WindowsForm\01_06 12h28\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Triagem.frmTriagem.resources
+L:\TCC\HEMOLAB\05 - Projeto WindowsForm\01_06 12h28\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Triagem.frmTriagemDoador.resources
+L:\TCC\HEMOLAB\05 - Projeto WindowsForm\01_06 12h28\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csproj.GenerateResource.Cache
+M:\TCC\HEMOLAB\05 - Projeto WindowsForm\01_06 12h28\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.exe
+M:\TCC\HEMOLAB\05 - Projeto WindowsForm\01_06 12h28\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.pdb
+C:\Users\28753\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.exe
+C:\Users\28753\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.pdb
+C:\Users\28753\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csprojResolveAssemblyReference.cache
+C:\Users\28753\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Distribuicao.frmRegistrarSaida.resources
+C:\Users\28753\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Distribuicao.frmBuscarBolsa.resources
+C:\Users\28753\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Estoque_de_Bolsas.frmEncaminharBolsa.resources
+C:\Users\28753\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Estoque_de_Bolsas.frmEstoque.resources
+C:\Users\28753\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmFracionamento.resources
+C:\Users\28753\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmImprimirEtiqueta.resources
+C:\Users\28753\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmMenuFracionamento.resources
+C:\Users\28753\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmRegistrarFracionamento.resources
+C:\Users\28753\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmPrincipal.resources
+C:\Users\28753\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmLogin.resources
+C:\Users\28753\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Hematologia.frmHematologia.resources
+C:\Users\28753\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Hematologia.frmRegistrarHematologia.resources
+C:\Users\28753\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.ImunoHematologia.frmImunoHematologia.resources
+C:\Users\28753\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.ImunoHematologia.frmRegistrarImunoHematologia.resources
+C:\Users\28753\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmPreTriagem.resources
+C:\Users\28753\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmPreTriagemDoador.resources
+C:\Users\28753\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmBuscarDoador.resources
+C:\Users\28753\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmNovaDoacao.resources
+C:\Users\28753\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmCadastrarDoador.resources
+C:\Users\28753\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmRecepcao.resources
+C:\Users\28753\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmSplash.resources
+C:\Users\28753\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Properties.Resources.resources
+C:\Users\28753\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sala_de_Coleta.frmBolsaColetada.resources
+C:\Users\28753\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sala_de_Coleta.frmSalaDeColeta.resources
+C:\Users\28753\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sorologia.frmResultadosSorologia.resources
+C:\Users\28753\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sorologia.frmSorologia.resources
+C:\Users\28753\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Triagem.frmTriagem.resources
+C:\Users\28753\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Triagem.frmTriagemDoador.resources
+C:\Users\28753\Desktop\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csproj.GenerateResource.Cache
+C:\Users\28753\Desktop\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.exe
+C:\Users\28753\Desktop\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.pdb
+C:\Users\28753\Desktop\prj_Hemolab\prj_Hemolab\bin\Debug\MySql.Data.dll
+J:\TELAS AJUNTADAS COM EROS\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.exe
+J:\TELAS AJUNTADAS COM EROS\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.pdb
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\03_06 16h20\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.exe
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\03_06 16h20\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.pdb
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\03_06 16h20\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.exe
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\03_06 16h20\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.pdb
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\03_06 16h20\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csprojResolveAssemblyReference.cache
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\03_06 16h20\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Distribuicao.frmRegistrarSaida.resources
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\03_06 16h20\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Distribuicao.frmBuscarBolsa.resources
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\03_06 16h20\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Estoque_de_Bolsas.frmEncaminharBolsa.resources
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\03_06 16h20\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Estoque_de_Bolsas.frmEstoque.resources
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\03_06 16h20\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmFracionamento.resources
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\03_06 16h20\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmImprimirEtiqueta.resources
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\03_06 16h20\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmMenuFracionamento.resources
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\03_06 16h20\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmRegistrarFracionamento.resources
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\03_06 16h20\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmPrincipal.resources
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\03_06 16h20\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmLogin.resources
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\03_06 16h20\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Hematologia.frmHematologia.resources
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\03_06 16h20\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Hematologia.frmRegistrarHematologia.resources
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\03_06 16h20\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.ImunoHematologia.frmImunoHematologia.resources
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\03_06 16h20\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.ImunoHematologia.frmRegistrarImunoHematologia.resources
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\03_06 16h20\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmPreTriagem.resources
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\03_06 16h20\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmPreTriagemDoador.resources
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\03_06 16h20\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmBuscarDoador.resources
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\03_06 16h20\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmCadastrarDoador.resources
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\03_06 16h20\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmNovaDoacao.resources
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\03_06 16h20\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmRecepcao.resources
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\03_06 16h20\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmSplash.resources
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\03_06 16h20\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Properties.Resources.resources
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\03_06 16h20\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sala_de_Coleta.frmBolsaColetada.resources
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\03_06 16h20\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sala_de_Coleta.frmSalaDeColeta.resources
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\03_06 16h20\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sorologia.frmResultadosSorologia.resources
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\03_06 16h20\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sorologia.frmSorologia.resources
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\03_06 16h20\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Triagem.frmTriagem.resources
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\03_06 16h20\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Triagem.frmTriagemDoador.resources
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\03_06 16h20\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csproj.GenerateResource.Cache
+I:\TCC\HEMOLAB\05 - Projeto WindowsForm\07_06 13h08\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.exe
+I:\TCC\HEMOLAB\05 - Projeto WindowsForm\07_06 13h08\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.pdb
+I:\TCC\HEMOLAB\05 - Projeto WindowsForm\07_06 13h08\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.exe
+I:\TCC\HEMOLAB\05 - Projeto WindowsForm\07_06 13h08\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.pdb
+I:\TCC\HEMOLAB\05 - Projeto WindowsForm\07_06 13h08\prj_Hemolab\prj_Hemolab\bin\Debug\MySql.Data.dll
+I:\TCC\HEMOLAB\05 - Projeto WindowsForm\07_06 13h08\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csprojResolveAssemblyReference.cache
+I:\TCC\HEMOLAB\05 - Projeto WindowsForm\07_06 13h08\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Distribuicao.frmRegistrarSaida.resources
+I:\TCC\HEMOLAB\05 - Projeto WindowsForm\07_06 13h08\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Distribuicao.frmBuscarBolsa.resources
+I:\TCC\HEMOLAB\05 - Projeto WindowsForm\07_06 13h08\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Estoque_de_Bolsas.frmEncaminharBolsa.resources
+I:\TCC\HEMOLAB\05 - Projeto WindowsForm\07_06 13h08\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Estoque_de_Bolsas.frmEstoque.resources
+I:\TCC\HEMOLAB\05 - Projeto WindowsForm\07_06 13h08\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmFracionamento.resources
+I:\TCC\HEMOLAB\05 - Projeto WindowsForm\07_06 13h08\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmImprimirEtiqueta.resources
+I:\TCC\HEMOLAB\05 - Projeto WindowsForm\07_06 13h08\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmMenuFracionamento.resources
+I:\TCC\HEMOLAB\05 - Projeto WindowsForm\07_06 13h08\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmRegistrarFracionamento.resources
+I:\TCC\HEMOLAB\05 - Projeto WindowsForm\07_06 13h08\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmPrincipal.resources
+I:\TCC\HEMOLAB\05 - Projeto WindowsForm\07_06 13h08\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmLogin.resources
+I:\TCC\HEMOLAB\05 - Projeto WindowsForm\07_06 13h08\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Hematologia.frmHematologia.resources
+I:\TCC\HEMOLAB\05 - Projeto WindowsForm\07_06 13h08\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Hematologia.frmRegistrarHematologia.resources
+I:\TCC\HEMOLAB\05 - Projeto WindowsForm\07_06 13h08\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.ImunoHematologia.frmImunoHematologia.resources
+I:\TCC\HEMOLAB\05 - Projeto WindowsForm\07_06 13h08\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.ImunoHematologia.frmRegistrarImunoHematologia.resources
+I:\TCC\HEMOLAB\05 - Projeto WindowsForm\07_06 13h08\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmPreTriagem.resources
+I:\TCC\HEMOLAB\05 - Projeto WindowsForm\07_06 13h08\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmPreTriagemDoador.resources
+I:\TCC\HEMOLAB\05 - Projeto WindowsForm\07_06 13h08\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmBuscarDoador.resources
+I:\TCC\HEMOLAB\05 - Projeto WindowsForm\07_06 13h08\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmCadastrarDoador.resources
+I:\TCC\HEMOLAB\05 - Projeto WindowsForm\07_06 13h08\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmNovaDoacao.resources
+I:\TCC\HEMOLAB\05 - Projeto WindowsForm\07_06 13h08\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmRecepcao.resources
+I:\TCC\HEMOLAB\05 - Projeto WindowsForm\07_06 13h08\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmSplash.resources
+I:\TCC\HEMOLAB\05 - Projeto WindowsForm\07_06 13h08\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Properties.Resources.resources
+I:\TCC\HEMOLAB\05 - Projeto WindowsForm\07_06 13h08\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sala_de_Coleta.frmBolsaColetada.resources
+I:\TCC\HEMOLAB\05 - Projeto WindowsForm\07_06 13h08\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sala_de_Coleta.frmSalaDeColeta.resources
+I:\TCC\HEMOLAB\05 - Projeto WindowsForm\07_06 13h08\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sorologia.frmResultadosSorologia.resources
+I:\TCC\HEMOLAB\05 - Projeto WindowsForm\07_06 13h08\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sorologia.frmSorologia.resources
+I:\TCC\HEMOLAB\05 - Projeto WindowsForm\07_06 13h08\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Triagem.frmTriagem.resources
+I:\TCC\HEMOLAB\05 - Projeto WindowsForm\07_06 13h08\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Triagem.frmTriagemDoador.resources
+I:\TCC\HEMOLAB\05 - Projeto WindowsForm\07_06 13h08\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csproj.GenerateResource.Cache
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\07_06 13h08\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.exe
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\07_06 13h08\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.pdb
+L:\TCC\HEMOLAB\05 - Projeto WindowsForm\08_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.exe
+L:\TCC\HEMOLAB\05 - Projeto WindowsForm\08_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.pdb
+L:\TCC\HEMOLAB\05 - Projeto WindowsForm\08_06 01h55\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.exe
+L:\TCC\HEMOLAB\05 - Projeto WindowsForm\08_06 01h55\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.pdb
+L:\TCC\HEMOLAB\05 - Projeto WindowsForm\08_06 01h55\prj_Hemolab\prj_Hemolab\bin\Debug\MySql.Data.dll
+L:\TCC\HEMOLAB\05 - Projeto WindowsForm\08_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csprojResolveAssemblyReference.cache
+L:\TCC\HEMOLAB\05 - Projeto WindowsForm\08_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Distribuicao.frmRegistrarSaida.resources
+L:\TCC\HEMOLAB\05 - Projeto WindowsForm\08_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Distribuicao.frmBuscarBolsa.resources
+L:\TCC\HEMOLAB\05 - Projeto WindowsForm\08_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Estoque_de_Bolsas.frmEncaminharBolsa.resources
+L:\TCC\HEMOLAB\05 - Projeto WindowsForm\08_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Estoque_de_Bolsas.frmEstoque.resources
+L:\TCC\HEMOLAB\05 - Projeto WindowsForm\08_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmFracionamento.resources
+L:\TCC\HEMOLAB\05 - Projeto WindowsForm\08_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmImprimirEtiqueta.resources
+L:\TCC\HEMOLAB\05 - Projeto WindowsForm\08_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmMenuFracionamento.resources
+L:\TCC\HEMOLAB\05 - Projeto WindowsForm\08_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmRegistrarFracionamento.resources
+L:\TCC\HEMOLAB\05 - Projeto WindowsForm\08_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmPrincipal.resources
+L:\TCC\HEMOLAB\05 - Projeto WindowsForm\08_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmLogin.resources
+L:\TCC\HEMOLAB\05 - Projeto WindowsForm\08_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Hematologia.frmHematologia.resources
+L:\TCC\HEMOLAB\05 - Projeto WindowsForm\08_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Hematologia.frmRegistrarHematologia.resources
+L:\TCC\HEMOLAB\05 - Projeto WindowsForm\08_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.ImunoHematologia.frmImunoHematologia.resources
+L:\TCC\HEMOLAB\05 - Projeto WindowsForm\08_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.ImunoHematologia.frmRegistrarImunoHematologia.resources
+L:\TCC\HEMOLAB\05 - Projeto WindowsForm\08_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmPreTriagem.resources
+L:\TCC\HEMOLAB\05 - Projeto WindowsForm\08_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmPreTriagemDoador.resources
+L:\TCC\HEMOLAB\05 - Projeto WindowsForm\08_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmBuscarDoador.resources
+L:\TCC\HEMOLAB\05 - Projeto WindowsForm\08_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmCadastrarDoador.resources
+L:\TCC\HEMOLAB\05 - Projeto WindowsForm\08_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmNovaDoacao.resources
+L:\TCC\HEMOLAB\05 - Projeto WindowsForm\08_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmRecepcao.resources
+L:\TCC\HEMOLAB\05 - Projeto WindowsForm\08_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmSplash.resources
+L:\TCC\HEMOLAB\05 - Projeto WindowsForm\08_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Properties.Resources.resources
+L:\TCC\HEMOLAB\05 - Projeto WindowsForm\08_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sala_de_Coleta.frmBolsaColetada.resources
+L:\TCC\HEMOLAB\05 - Projeto WindowsForm\08_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sala_de_Coleta.frmSalaDeColeta.resources
+L:\TCC\HEMOLAB\05 - Projeto WindowsForm\08_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sorologia.frmResultadosSorologia.resources
+L:\TCC\HEMOLAB\05 - Projeto WindowsForm\08_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sorologia.frmSorologia.resources
+L:\TCC\HEMOLAB\05 - Projeto WindowsForm\08_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Triagem.frmTriagem.resources
+L:\TCC\HEMOLAB\05 - Projeto WindowsForm\08_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Triagem.frmTriagemDoador.resources
+L:\TCC\HEMOLAB\05 - Projeto WindowsForm\08_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csproj.GenerateResource.Cache
+K:\TCC\HEMOLAB\05 - Projeto WindowsForm\08_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.exe
+K:\TCC\HEMOLAB\05 - Projeto WindowsForm\08_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.pdb
+K:\TCC\HEMOLAB\05 - Projeto WindowsForm\08_06 01h55\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.exe
+K:\TCC\HEMOLAB\05 - Projeto WindowsForm\08_06 01h55\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.pdb
+K:\TCC\HEMOLAB\05 - Projeto WindowsForm\08_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csprojResolveAssemblyReference.cache
+K:\TCC\HEMOLAB\05 - Projeto WindowsForm\08_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Distribuicao.frmRegistrarSaida.resources
+K:\TCC\HEMOLAB\05 - Projeto WindowsForm\08_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Distribuicao.frmBuscarBolsa.resources
+K:\TCC\HEMOLAB\05 - Projeto WindowsForm\08_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Estoque_de_Bolsas.frmEncaminharBolsa.resources
+K:\TCC\HEMOLAB\05 - Projeto WindowsForm\08_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Estoque_de_Bolsas.frmEstoque.resources
+K:\TCC\HEMOLAB\05 - Projeto WindowsForm\08_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmFracionamento.resources
+K:\TCC\HEMOLAB\05 - Projeto WindowsForm\08_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmImprimirEtiqueta.resources
+K:\TCC\HEMOLAB\05 - Projeto WindowsForm\08_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmMenuFracionamento.resources
+K:\TCC\HEMOLAB\05 - Projeto WindowsForm\08_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmRegistrarFracionamento.resources
+K:\TCC\HEMOLAB\05 - Projeto WindowsForm\08_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmPrincipal.resources
+K:\TCC\HEMOLAB\05 - Projeto WindowsForm\08_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmLogin.resources
+K:\TCC\HEMOLAB\05 - Projeto WindowsForm\08_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Hematologia.frmHematologia.resources
+K:\TCC\HEMOLAB\05 - Projeto WindowsForm\08_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Hematologia.frmRegistrarHematologia.resources
+K:\TCC\HEMOLAB\05 - Projeto WindowsForm\08_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.ImunoHematologia.frmImunoHematologia.resources
+K:\TCC\HEMOLAB\05 - Projeto WindowsForm\08_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.ImunoHematologia.frmRegistrarImunoHematologia.resources
+K:\TCC\HEMOLAB\05 - Projeto WindowsForm\08_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmPreTriagem.resources
+K:\TCC\HEMOLAB\05 - Projeto WindowsForm\08_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmPreTriagemDoador.resources
+K:\TCC\HEMOLAB\05 - Projeto WindowsForm\08_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmBuscarDoador.resources
+K:\TCC\HEMOLAB\05 - Projeto WindowsForm\08_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmCadastrarDoador.resources
+K:\TCC\HEMOLAB\05 - Projeto WindowsForm\08_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmNovaDoacao.resources
+K:\TCC\HEMOLAB\05 - Projeto WindowsForm\08_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmRecepcao.resources
+K:\TCC\HEMOLAB\05 - Projeto WindowsForm\08_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmSplash.resources
+K:\TCC\HEMOLAB\05 - Projeto WindowsForm\08_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Properties.Resources.resources
+K:\TCC\HEMOLAB\05 - Projeto WindowsForm\08_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sala_de_Coleta.frmBolsaColetada.resources
+K:\TCC\HEMOLAB\05 - Projeto WindowsForm\08_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sala_de_Coleta.frmSalaDeColeta.resources
+K:\TCC\HEMOLAB\05 - Projeto WindowsForm\08_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sorologia.frmResultadosSorologia.resources
+K:\TCC\HEMOLAB\05 - Projeto WindowsForm\08_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sorologia.frmSorologia.resources
+K:\TCC\HEMOLAB\05 - Projeto WindowsForm\08_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Triagem.frmTriagem.resources
+K:\TCC\HEMOLAB\05 - Projeto WindowsForm\08_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Triagem.frmTriagemDoador.resources
+K:\TCC\HEMOLAB\05 - Projeto WindowsForm\08_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csproj.GenerateResource.Cache
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\13_06 23h03\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.exe
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\13_06 23h03\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.pdb
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.exe
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.pdb
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\14_06 14h31\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.exe
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\14_06 14h31\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.pdb
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\14_06 14h31\prj_Hemolab\prj_Hemolab\bin\Debug\MySql.Data.dll
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csprojResolveAssemblyReference.cache
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Distribuicao.frmRegistrarSaida.resources
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Distribuicao.frmBuscarBolsa.resources
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Estoque_de_Bolsas.frmEncaminharBolsa.resources
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Estoque_de_Bolsas.frmEstoque.resources
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmFracionamento.resources
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmImprimirEtiqueta.resources
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmMenuFracionamento.resources
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmRegistrarFracionamento.resources
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmPrincipal.resources
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmLogin.resources
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Hematologia.frmHematologia.resources
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Hematologia.frmRegistrarHematologia.resources
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.ImunoHematologia.frmImunoHematologia.resources
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.ImunoHematologia.frmRegistrarImunoHematologia.resources
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmPreTriagem.resources
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmPreTriagemDoador.resources
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmBuscarDoador.resources
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmCadastrarDoador.resources
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmNovaDoacao.resources
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmRecepcao.resources
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmSplash.resources
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Properties.Resources.resources
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sala_de_Coleta.frmBolsaColetada.resources
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sala_de_Coleta.frmSalaDeColeta.resources
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sorologia.frmResultadosSorologia.resources
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sorologia.frmSorologia.resources
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Triagem.frmTriagem.resources
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Triagem.frmTriagemDoador.resources
+J:\TCC\HEMOLAB\05 - Projeto WindowsForm\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csproj.GenerateResource.Cache
+I:\TCC\HEMOLAB\05 - Projeto WindowsForm\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.exe
+I:\TCC\HEMOLAB\05 - Projeto WindowsForm\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.pdb
+I:\TCC\HEMOLAB\05 - Projeto WindowsForm\14_06 14h31\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.exe
+I:\TCC\HEMOLAB\05 - Projeto WindowsForm\14_06 14h31\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.pdb
+I:\TCC\HEMOLAB\05 - Projeto WindowsForm\14_06 14h31\prj_Hemolab\prj_Hemolab\bin\Debug\MySql.Data.dll
+I:\TCC\HEMOLAB\05 - Projeto WindowsForm\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csprojResolveAssemblyReference.cache
+I:\TCC\HEMOLAB\05 - Projeto WindowsForm\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Distribuicao.frmRegistrarSaida.resources
+I:\TCC\HEMOLAB\05 - Projeto WindowsForm\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Distribuicao.frmBuscarBolsa.resources
+I:\TCC\HEMOLAB\05 - Projeto WindowsForm\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Estoque_de_Bolsas.frmEncaminharBolsa.resources
+I:\TCC\HEMOLAB\05 - Projeto WindowsForm\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Estoque_de_Bolsas.frmEstoque.resources
+I:\TCC\HEMOLAB\05 - Projeto WindowsForm\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmFracionamento.resources
+I:\TCC\HEMOLAB\05 - Projeto WindowsForm\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmImprimirEtiqueta.resources
+I:\TCC\HEMOLAB\05 - Projeto WindowsForm\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmMenuFracionamento.resources
+I:\TCC\HEMOLAB\05 - Projeto WindowsForm\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmRegistrarFracionamento.resources
+I:\TCC\HEMOLAB\05 - Projeto WindowsForm\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmPrincipal.resources
+I:\TCC\HEMOLAB\05 - Projeto WindowsForm\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmLogin.resources
+I:\TCC\HEMOLAB\05 - Projeto WindowsForm\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Hematologia.frmHematologia.resources
+I:\TCC\HEMOLAB\05 - Projeto WindowsForm\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Hematologia.frmRegistrarHematologia.resources
+I:\TCC\HEMOLAB\05 - Projeto WindowsForm\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.ImunoHematologia.frmImunoHematologia.resources
+I:\TCC\HEMOLAB\05 - Projeto WindowsForm\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.ImunoHematologia.frmRegistrarImunoHematologia.resources
+I:\TCC\HEMOLAB\05 - Projeto WindowsForm\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmPreTriagem.resources
+I:\TCC\HEMOLAB\05 - Projeto WindowsForm\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmPreTriagemDoador.resources
+I:\TCC\HEMOLAB\05 - Projeto WindowsForm\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmBuscarDoador.resources
+I:\TCC\HEMOLAB\05 - Projeto WindowsForm\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmCadastrarDoador.resources
+I:\TCC\HEMOLAB\05 - Projeto WindowsForm\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmNovaDoacao.resources
+I:\TCC\HEMOLAB\05 - Projeto WindowsForm\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmRecepcao.resources
+I:\TCC\HEMOLAB\05 - Projeto WindowsForm\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmSplash.resources
+I:\TCC\HEMOLAB\05 - Projeto WindowsForm\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Properties.Resources.resources
+I:\TCC\HEMOLAB\05 - Projeto WindowsForm\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sala_de_Coleta.frmBolsaColetada.resources
+I:\TCC\HEMOLAB\05 - Projeto WindowsForm\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sala_de_Coleta.frmSalaDeColeta.resources
+I:\TCC\HEMOLAB\05 - Projeto WindowsForm\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sorologia.frmResultadosSorologia.resources
+I:\TCC\HEMOLAB\05 - Projeto WindowsForm\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sorologia.frmSorologia.resources
+I:\TCC\HEMOLAB\05 - Projeto WindowsForm\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Triagem.frmTriagem.resources
+I:\TCC\HEMOLAB\05 - Projeto WindowsForm\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Triagem.frmTriagemDoador.resources
+I:\TCC\HEMOLAB\05 - Projeto WindowsForm\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csproj.GenerateResource.Cache
+C:\Users\Liam\Desktop\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.exe
+C:\Users\Liam\Desktop\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.pdb
+C:\Users\Liam\Desktop\14_06 14h31\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.exe
+C:\Users\Liam\Desktop\14_06 14h31\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.pdb
+C:\Users\Liam\Desktop\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csprojResolveAssemblyReference.cache
+C:\Users\Liam\Desktop\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Distribuicao.frmRegistrarSaida.resources
+C:\Users\Liam\Desktop\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Distribuicao.frmBuscarBolsa.resources
+C:\Users\Liam\Desktop\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Estoque_de_Bolsas.frmEncaminharBolsa.resources
+C:\Users\Liam\Desktop\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Estoque_de_Bolsas.frmEstoque.resources
+C:\Users\Liam\Desktop\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmFracionamento.resources
+C:\Users\Liam\Desktop\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmImprimirEtiqueta.resources
+C:\Users\Liam\Desktop\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmMenuFracionamento.resources
+C:\Users\Liam\Desktop\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmRegistrarFracionamento.resources
+C:\Users\Liam\Desktop\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmPrincipal.resources
+C:\Users\Liam\Desktop\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmLogin.resources
+C:\Users\Liam\Desktop\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Hematologia.frmHematologia.resources
+C:\Users\Liam\Desktop\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Hematologia.frmRegistrarHematologia.resources
+C:\Users\Liam\Desktop\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.ImunoHematologia.frmImunoHematologia.resources
+C:\Users\Liam\Desktop\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.ImunoHematologia.frmRegistrarImunoHematologia.resources
+C:\Users\Liam\Desktop\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmPreTriagem.resources
+C:\Users\Liam\Desktop\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmPreTriagemDoador.resources
+C:\Users\Liam\Desktop\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmBuscarDoador.resources
+C:\Users\Liam\Desktop\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmCadastrarDoador.resources
+C:\Users\Liam\Desktop\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmNovaDoacao.resources
+C:\Users\Liam\Desktop\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmRecepcao.resources
+C:\Users\Liam\Desktop\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmSplash.resources
+C:\Users\Liam\Desktop\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Properties.Resources.resources
+C:\Users\Liam\Desktop\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sala_de_Coleta.frmBolsaColetada.resources
+C:\Users\Liam\Desktop\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sala_de_Coleta.frmSalaDeColeta.resources
+C:\Users\Liam\Desktop\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sorologia.frmResultadosSorologia.resources
+C:\Users\Liam\Desktop\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sorologia.frmSorologia.resources
+C:\Users\Liam\Desktop\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Triagem.frmTriagem.resources
+C:\Users\Liam\Desktop\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Triagem.frmTriagemDoador.resources
+C:\Users\Liam\Desktop\14_06 14h31\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csproj.GenerateResource.Cache
+C:\Users\28922\Desktop\15_06 01h13\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.exe
+C:\Users\28922\Desktop\15_06 01h13\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.pdb
+C:\Users\28922\Desktop\15_06 01h13\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.exe
+C:\Users\28922\Desktop\15_06 01h13\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.pdb
+C:\Users\28922\Desktop\15_06 01h13\prj_Hemolab\prj_Hemolab\bin\Debug\MySql.Data.dll
+C:\Users\28922\Desktop\15_06 01h13\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csprojResolveAssemblyReference.cache
+C:\Users\28922\Desktop\15_06 01h13\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Distribuicao.frmRegistrarSaida.resources
+C:\Users\28922\Desktop\15_06 01h13\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Distribuicao.frmBuscarBolsa.resources
+C:\Users\28922\Desktop\15_06 01h13\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Estoque_de_Bolsas.frmEncaminharBolsa.resources
+C:\Users\28922\Desktop\15_06 01h13\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Estoque_de_Bolsas.frmEstoque.resources
+C:\Users\28922\Desktop\15_06 01h13\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmFracionamento.resources
+C:\Users\28922\Desktop\15_06 01h13\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmImprimirEtiqueta.resources
+C:\Users\28922\Desktop\15_06 01h13\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmMenuFracionamento.resources
+C:\Users\28922\Desktop\15_06 01h13\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmRegistrarFracionamento.resources
+C:\Users\28922\Desktop\15_06 01h13\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmPrincipal.resources
+C:\Users\28922\Desktop\15_06 01h13\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmLogin.resources
+C:\Users\28922\Desktop\15_06 01h13\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Hematologia.frmHematologia.resources
+C:\Users\28922\Desktop\15_06 01h13\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Hematologia.frmRegistrarHematologia.resources
+C:\Users\28922\Desktop\15_06 01h13\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.ImunoHematologia.frmImunoHematologia.resources
+C:\Users\28922\Desktop\15_06 01h13\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.ImunoHematologia.frmRegistrarImunoHematologia.resources
+C:\Users\28922\Desktop\15_06 01h13\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmPreTriagem.resources
+C:\Users\28922\Desktop\15_06 01h13\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmPreTriagemDoador.resources
+C:\Users\28922\Desktop\15_06 01h13\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmBuscarDoador.resources
+C:\Users\28922\Desktop\15_06 01h13\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmCadastrarDoador.resources
+C:\Users\28922\Desktop\15_06 01h13\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmNovaDoacao.resources
+C:\Users\28922\Desktop\15_06 01h13\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmRecepcao.resources
+C:\Users\28922\Desktop\15_06 01h13\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmSplash.resources
+C:\Users\28922\Desktop\15_06 01h13\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Properties.Resources.resources
+C:\Users\28922\Desktop\15_06 01h13\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sala_de_Coleta.frmBolsaColetada.resources
+C:\Users\28922\Desktop\15_06 01h13\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sala_de_Coleta.frmSalaDeColeta.resources
+C:\Users\28922\Desktop\15_06 01h13\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sorologia.frmResultadosSorologia.resources
+C:\Users\28922\Desktop\15_06 01h13\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sorologia.frmSorologia.resources
+C:\Users\28922\Desktop\15_06 01h13\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Triagem.frmTriagem.resources
+C:\Users\28922\Desktop\15_06 01h13\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Triagem.frmTriagemDoador.resources
+C:\Users\28922\Desktop\15_06 01h13\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csproj.GenerateResource.Cache
+C:\Users\28922\Desktop\15_06 01h13\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmAdministrador.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\15_06 17h54\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.exe
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\15_06 17h54\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.pdb
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\15_06 17h54\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.exe
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\15_06 17h54\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.pdb
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\15_06 17h54\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csprojResolveAssemblyReference.cache
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\15_06 17h54\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Distribuicao.frmRegistrarSaida.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\15_06 17h54\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Distribuicao.frmBuscarBolsa.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\15_06 17h54\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Estoque_de_Bolsas.frmEncaminharBolsa.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\15_06 17h54\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Estoque_de_Bolsas.frmEstoque.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\15_06 17h54\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmFracionamento.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\15_06 17h54\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmImprimirEtiqueta.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\15_06 17h54\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmMenuFracionamento.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\15_06 17h54\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmRegistrarFracionamento.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\15_06 17h54\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmAdministrador.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\15_06 17h54\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmPrincipal.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\15_06 17h54\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmLogin.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\15_06 17h54\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Hematologia.frmHematologia.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\15_06 17h54\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Hematologia.frmRegistrarHematologia.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\15_06 17h54\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.ImunoHematologia.frmImunoHematologia.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\15_06 17h54\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.ImunoHematologia.frmRegistrarImunoHematologia.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\15_06 17h54\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmPreTriagem.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\15_06 17h54\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmPreTriagemDoador.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\15_06 17h54\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmBuscarDoador.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\15_06 17h54\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmCadastrarDoador.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\15_06 17h54\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmNovaDoacao.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\15_06 17h54\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmRecepcao.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\15_06 17h54\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmSplash.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\15_06 17h54\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Properties.Resources.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\15_06 17h54\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sala_de_Coleta.frmBolsaColetada.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\15_06 17h54\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sala_de_Coleta.frmSalaDeColeta.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\15_06 17h54\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sorologia.frmResultadosSorologia.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\15_06 17h54\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sorologia.frmSorologia.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\15_06 17h54\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Triagem.frmTriagem.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\15_06 17h54\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Triagem.frmTriagemDoador.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\15_06 17h54\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csproj.GenerateResource.Cache
+D:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\15_06 17h54\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.exe
+D:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\15_06 17h54\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.pdb
+C:\Users\Liam\Desktop\17_06 19h03\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.exe
+C:\Users\Liam\Desktop\17_06 19h03\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.pdb
+C:\Users\Liam\Desktop\17_06 19h03\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.exe
+C:\Users\Liam\Desktop\17_06 19h03\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.pdb
+C:\Users\Liam\Desktop\17_06 19h03\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csprojResolveAssemblyReference.cache
+C:\Users\Liam\Desktop\17_06 19h03\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Distribuicao.frmRegistrarSaida.resources
+C:\Users\Liam\Desktop\17_06 19h03\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Distribuicao.frmBuscarBolsa.resources
+C:\Users\Liam\Desktop\17_06 19h03\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Estoque_de_Bolsas.frmEstoque.resources
+C:\Users\Liam\Desktop\17_06 19h03\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmFracionamento.resources
+C:\Users\Liam\Desktop\17_06 19h03\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmImprimirEtiqueta.resources
+C:\Users\Liam\Desktop\17_06 19h03\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmMenuFracionamento.resources
+C:\Users\Liam\Desktop\17_06 19h03\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmRegistrarFracionamento.resources
+C:\Users\Liam\Desktop\17_06 19h03\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmAdministrador.resources
+C:\Users\Liam\Desktop\17_06 19h03\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmPrincipal.resources
+C:\Users\Liam\Desktop\17_06 19h03\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmLogin.resources
+C:\Users\Liam\Desktop\17_06 19h03\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Hematologia.frmHematologia.resources
+C:\Users\Liam\Desktop\17_06 19h03\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Hematologia.frmRegistrarHematologia.resources
+C:\Users\Liam\Desktop\17_06 19h03\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.ImunoHematologia.frmImunoHematologia.resources
+C:\Users\Liam\Desktop\17_06 19h03\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.ImunoHematologia.frmRegistrarImunoHematologia.resources
+C:\Users\Liam\Desktop\17_06 19h03\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmPreTriagem.resources
+C:\Users\Liam\Desktop\17_06 19h03\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmPreTriagemDoador.resources
+C:\Users\Liam\Desktop\17_06 19h03\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmBuscarDoador.resources
+C:\Users\Liam\Desktop\17_06 19h03\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmCadastrarDoador.resources
+C:\Users\Liam\Desktop\17_06 19h03\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmNovaDoacao.resources
+C:\Users\Liam\Desktop\17_06 19h03\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmRecepcao.resources
+C:\Users\Liam\Desktop\17_06 19h03\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmSplash.resources
+C:\Users\Liam\Desktop\17_06 19h03\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Properties.Resources.resources
+C:\Users\Liam\Desktop\17_06 19h03\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sala_de_Coleta.frmBolsaColetada.resources
+C:\Users\Liam\Desktop\17_06 19h03\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sala_de_Coleta.frmSalaDeColeta.resources
+C:\Users\Liam\Desktop\17_06 19h03\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sorologia.frmResultadosSorologia.resources
+C:\Users\Liam\Desktop\17_06 19h03\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sorologia.frmSorologia.resources
+C:\Users\Liam\Desktop\17_06 19h03\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Triagem.frmTriagem.resources
+C:\Users\Liam\Desktop\17_06 19h03\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Triagem.frmTriagemDoador.resources
+C:\Users\Liam\Desktop\17_06 19h03\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csproj.GenerateResource.Cache
+C:\Users\Liam\Desktop\17_06 19h03\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Estoque_de_Bolsas.frmNotificacaoBolsa.resources
+C:\Users\Liam\Desktop\Mexe nesse aqui\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.exe
+C:\Users\Liam\Desktop\Mexe nesse aqui\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.pdb
+C:\Users\Liam\Desktop\Mexe nesse aqui\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.exe
+C:\Users\Liam\Desktop\Mexe nesse aqui\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.pdb
+C:\Users\Liam\Desktop\Mexe nesse aqui\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csprojResolveAssemblyReference.cache
+C:\Users\Liam\Desktop\Mexe nesse aqui\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Distribuicao.frmRegistrarSaida.resources
+C:\Users\Liam\Desktop\Mexe nesse aqui\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Distribuicao.frmBuscarBolsa.resources
+C:\Users\Liam\Desktop\Mexe nesse aqui\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Estoque_de_Bolsas.frmNotificacaoBolsa.resources
+C:\Users\Liam\Desktop\Mexe nesse aqui\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Estoque_de_Bolsas.frmEstoque.resources
+C:\Users\Liam\Desktop\Mexe nesse aqui\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmFracionamento.resources
+C:\Users\Liam\Desktop\Mexe nesse aqui\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmImprimirEtiqueta.resources
+C:\Users\Liam\Desktop\Mexe nesse aqui\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmMenuFracionamento.resources
+C:\Users\Liam\Desktop\Mexe nesse aqui\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmRegistrarFracionamento.resources
+C:\Users\Liam\Desktop\Mexe nesse aqui\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmAdministrador.resources
+C:\Users\Liam\Desktop\Mexe nesse aqui\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmPrincipal.resources
+C:\Users\Liam\Desktop\Mexe nesse aqui\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmLogin.resources
+C:\Users\Liam\Desktop\Mexe nesse aqui\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Hematologia.frmHematologia.resources
+C:\Users\Liam\Desktop\Mexe nesse aqui\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Hematologia.frmRegistrarHematologia.resources
+C:\Users\Liam\Desktop\Mexe nesse aqui\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.ImunoHematologia.frmImunoHematologia.resources
+C:\Users\Liam\Desktop\Mexe nesse aqui\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.ImunoHematologia.frmRegistrarImunoHematologia.resources
+C:\Users\Liam\Desktop\Mexe nesse aqui\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmPreTriagem.resources
+C:\Users\Liam\Desktop\Mexe nesse aqui\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmPreTriagemDoador.resources
+C:\Users\Liam\Desktop\Mexe nesse aqui\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmBuscarDoador.resources
+C:\Users\Liam\Desktop\Mexe nesse aqui\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmCadastrarDoador.resources
+C:\Users\Liam\Desktop\Mexe nesse aqui\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmNovaDoacao.resources
+C:\Users\Liam\Desktop\Mexe nesse aqui\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmRecepcao.resources
+C:\Users\Liam\Desktop\Mexe nesse aqui\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmSplash.resources
+C:\Users\Liam\Desktop\Mexe nesse aqui\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Properties.Resources.resources
+C:\Users\Liam\Desktop\Mexe nesse aqui\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sala_de_Coleta.frmBolsaColetada.resources
+C:\Users\Liam\Desktop\Mexe nesse aqui\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sala_de_Coleta.frmSalaDeColeta.resources
+C:\Users\Liam\Desktop\Mexe nesse aqui\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sorologia.frmResultadosSorologia.resources
+C:\Users\Liam\Desktop\Mexe nesse aqui\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sorologia.frmSorologia.resources
+C:\Users\Liam\Desktop\Mexe nesse aqui\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Triagem.frmTriagem.resources
+C:\Users\Liam\Desktop\Mexe nesse aqui\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Triagem.frmTriagemDoador.resources
+C:\Users\Liam\Desktop\Mexe nesse aqui\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csproj.GenerateResource.Cache
+C:\Users\Liam\Desktop\Mexe nesse aqui\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmConfirmarPreTriagem.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\20_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.exe
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\20_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.pdb
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\20_06 01h55\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.exe
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\20_06 01h55\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.pdb
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\20_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csprojResolveAssemblyReference.cache
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\20_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Distribuicao.frmRegistrarSaida.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\20_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Distribuicao.frmBuscarBolsa.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\20_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Estoque_de_Bolsas.frmNotificacaoBolsa.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\20_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Estoque_de_Bolsas.frmEstoque.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\20_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmFracionamento.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\20_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmImprimirEtiqueta.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\20_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmMenuFracionamento.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\20_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmRegistrarFracionamento.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\20_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmAdministrador.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\20_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmPrincipal.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\20_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmLogin.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\20_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.ImunoHematologia.frmImunoHematologia.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\20_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.ImunoHematologia.frmRegistrarImunoHematologia.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\20_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmConfirmarPreTriagem.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\20_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmPreTriagem.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\20_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmPreTriagemDoador.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\20_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmBuscarDoador.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\20_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmCadastrarDoador.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\20_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmNovaDoacao.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\20_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmRecepcao.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\20_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmSplash.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\20_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Properties.Resources.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\20_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sala_de_Coleta.frmBolsaColetada.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\20_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sala_de_Coleta.frmSalaDeColeta.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\20_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sorologia.frmResultadosSorologia.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\20_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sorologia.frmSorologia.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\20_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Triagem.frmTriagem.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\20_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Triagem.frmTriagemDoador.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\20_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csproj.GenerateResource.Cache
+C:\Users\28922\Desktop\20_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.exe
+C:\Users\28922\Desktop\20_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.pdb
+C:\Users\28922\Desktop\20_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csprojResolveAssemblyReference.cache
+C:\Users\28922\Desktop\20_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Distribuicao.frmRegistrarSaida.resources
+C:\Users\28922\Desktop\20_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Distribuicao.frmBuscarBolsa.resources
+C:\Users\28922\Desktop\20_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Estoque_de_Bolsas.frmNotificacaoBolsa.resources
+C:\Users\28922\Desktop\20_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Estoque_de_Bolsas.frmEstoque.resources
+C:\Users\28922\Desktop\20_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmFracionamento.resources
+C:\Users\28922\Desktop\20_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmImprimirEtiqueta.resources
+C:\Users\28922\Desktop\20_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmMenuFracionamento.resources
+C:\Users\28922\Desktop\20_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmRegistrarFracionamento.resources
+C:\Users\28922\Desktop\20_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmAdministrador.resources
+C:\Users\28922\Desktop\20_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmPrincipal.resources
+C:\Users\28922\Desktop\20_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmLogin.resources
+C:\Users\28922\Desktop\20_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.ImunoHematologia.frmImunoHematologia.resources
+C:\Users\28922\Desktop\20_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.ImunoHematologia.frmRegistrarImunoHematologia.resources
+C:\Users\28922\Desktop\20_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmConfirmarPreTriagem.resources
+C:\Users\28922\Desktop\20_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmPreTriagem.resources
+C:\Users\28922\Desktop\20_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmPreTriagemDoador.resources
+C:\Users\28922\Desktop\20_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmSplash.resources
+C:\Users\28922\Desktop\20_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Properties.Resources.resources
+C:\Users\28922\Desktop\20_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmBuscarDoador.resources
+C:\Users\28922\Desktop\20_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmCadastrarDoador.resources
+C:\Users\28922\Desktop\20_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmNovaDoacao.resources
+C:\Users\28922\Desktop\20_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmRecepcao.resources
+C:\Users\28922\Desktop\20_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sala_de_Coleta.frmBolsaColetada.resources
+C:\Users\28922\Desktop\20_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sala_de_Coleta.frmSalaDeColeta.resources
+C:\Users\28922\Desktop\20_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sorologia.frmResultadosSorologia.resources
+C:\Users\28922\Desktop\20_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sorologia.frmSorologia.resources
+C:\Users\28922\Desktop\20_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Triagem.frmTriagem.resources
+C:\Users\28922\Desktop\20_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Triagem.frmTriagemDoador.resources
+C:\Users\28922\Desktop\20_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csproj.GenerateResource.Cache
+C:\Users\28922\Desktop\20_06 01h55\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.exe
+C:\Users\28922\Desktop\20_06 01h55\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.pdb
+C:\Users\28922\Desktop\20_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmFuncionarios.resources
+C:\Users\28922\Desktop\20_06 01h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Funcionario.frmNovoFuncionario.resources
+C:\Users\Liam\Desktop\20_06 17h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.exe
+C:\Users\Liam\Desktop\20_06 17h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.pdb
+C:\Users\Liam\Desktop\20_06 17h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csprojResolveAssemblyReference.cache
+C:\Users\Liam\Desktop\20_06 17h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Distribuicao.frmRegistrarSaida.resources
+C:\Users\Liam\Desktop\20_06 17h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Distribuicao.frmBuscarBolsa.resources
+C:\Users\Liam\Desktop\20_06 17h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Estoque_de_Bolsas.frmNotificacaoBolsa.resources
+C:\Users\Liam\Desktop\20_06 17h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Estoque_de_Bolsas.frmEstoque.resources
+C:\Users\Liam\Desktop\20_06 17h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmFracionamento.resources
+C:\Users\Liam\Desktop\20_06 17h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmImprimirEtiqueta.resources
+C:\Users\Liam\Desktop\20_06 17h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmMenuFracionamento.resources
+C:\Users\Liam\Desktop\20_06 17h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmRegistrarFracionamento.resources
+C:\Users\Liam\Desktop\20_06 17h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmAdministrador.resources
+C:\Users\Liam\Desktop\20_06 17h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmFuncionarios.resources
+C:\Users\Liam\Desktop\20_06 17h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmPrincipal.resources
+C:\Users\Liam\Desktop\20_06 17h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmLogin.resources
+C:\Users\Liam\Desktop\20_06 17h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Funcionario.frmNovoFuncionario.resources
+C:\Users\Liam\Desktop\20_06 17h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.ImunoHematologia.frmImunoHematologia.resources
+C:\Users\Liam\Desktop\20_06 17h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.ImunoHematologia.frmRegistrarImunoHematologia.resources
+C:\Users\Liam\Desktop\20_06 17h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmConfirmarPreTriagem.resources
+C:\Users\Liam\Desktop\20_06 17h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmPreTriagem.resources
+C:\Users\Liam\Desktop\20_06 17h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmPreTriagemDoador.resources
+C:\Users\Liam\Desktop\20_06 17h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Properties.Resources.resources
+C:\Users\Liam\Desktop\20_06 17h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmBuscarDoador.resources
+C:\Users\Liam\Desktop\20_06 17h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmCadastrarDoador.resources
+C:\Users\Liam\Desktop\20_06 17h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmNovaDoacao.resources
+C:\Users\Liam\Desktop\20_06 17h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmRecepcao.resources
+C:\Users\Liam\Desktop\20_06 17h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sala_de_Coleta.frmBolsaColetada.resources
+C:\Users\Liam\Desktop\20_06 17h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sala_de_Coleta.frmSalaDeColeta.resources
+C:\Users\Liam\Desktop\20_06 17h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sorologia.frmResultadosSorologia.resources
+C:\Users\Liam\Desktop\20_06 17h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sorologia.frmSorologia.resources
+C:\Users\Liam\Desktop\20_06 17h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Triagem.frmTriagem.resources
+C:\Users\Liam\Desktop\20_06 17h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Triagem.frmTriagemDoador.resources
+C:\Users\Liam\Desktop\20_06 17h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csproj.GenerateResource.Cache
+C:\Users\Liam\Desktop\20_06 17h55\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.exe
+C:\Users\Liam\Desktop\20_06 17h55\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.pdb
+C:\Users\Liam\Desktop\20_06 17h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Funcionario.frmEditarFuncionario.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\21_06 03h06\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.exe
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\21_06 03h06\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.pdb
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\21_06 03h06\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.exe
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\21_06 03h06\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.pdb
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\21_06 03h06\prj_Hemolab\prj_Hemolab\bin\Debug\MySql.Data.dll
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\21_06 03h06\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csprojResolveAssemblyReference.cache
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\21_06 03h06\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Distribuicao.frmRegistrarSaida.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\21_06 03h06\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Distribuicao.frmBuscarBolsa.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\21_06 03h06\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Estoque_de_Bolsas.frmNotificacaoBolsa.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\21_06 03h06\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Estoque_de_Bolsas.frmEstoque.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\21_06 03h06\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmFracionamento.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\21_06 03h06\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmImprimirEtiqueta.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\21_06 03h06\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmMenuFracionamento.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\21_06 03h06\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmRegistrarFracionamento.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\21_06 03h06\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmAdministrador.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\21_06 03h06\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Funcionario.frmEditarFuncionario.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\21_06 03h06\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmFuncionarios.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\21_06 03h06\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmPrincipal.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\21_06 03h06\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmLogin.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\21_06 03h06\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Funcionario.frmNovoFuncionario.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\21_06 03h06\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.ImunoHematologia.frmImunoHematologia.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\21_06 03h06\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.ImunoHematologia.frmRegistrarImunoHematologia.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\21_06 03h06\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmConfirmarPreTriagem.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\21_06 03h06\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmPreTriagem.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\21_06 03h06\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmPreTriagemDoador.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\21_06 03h06\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Properties.Resources.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\21_06 03h06\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmBuscarDoador.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\21_06 03h06\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmCadastrarDoador.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\21_06 03h06\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmNovaDoacao.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\21_06 03h06\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmRecepcao.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\21_06 03h06\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sala_de_Coleta.frmBolsaColetada.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\21_06 03h06\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sala_de_Coleta.frmSalaDeColeta.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\21_06 03h06\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sorologia.frmResultadosSorologia.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\21_06 03h06\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sorologia.frmSorologia.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\21_06 03h06\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Triagem.frmTriagem.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\21_06 03h06\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Triagem.frmTriagemDoador.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\21_06 03h06\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csproj.GenerateResource.Cache
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\21_06 03h06\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Funcionario.frmTrocarSenha.resources
+F:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\21_06 03h06\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmEmailDoador.resources
+C:\Users\Liam\Desktop\21_06 20h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.exe
+C:\Users\Liam\Desktop\21_06 20h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.pdb
+C:\Users\Liam\Desktop\21_06 20h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csprojResolveAssemblyReference.cache
+C:\Users\Liam\Desktop\21_06 20h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Distribuicao.frmRegistrarSaida.resources
+C:\Users\Liam\Desktop\21_06 20h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Distribuicao.frmBuscarBolsa.resources
+C:\Users\Liam\Desktop\21_06 20h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Email.frmVerificarEmail.resources
+C:\Users\Liam\Desktop\21_06 20h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Estoque_de_Bolsas.frmNotificacaoBolsa.resources
+C:\Users\Liam\Desktop\21_06 20h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Estoque_de_Bolsas.frmEstoque.resources
+C:\Users\Liam\Desktop\21_06 20h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmFracionamento.resources
+C:\Users\Liam\Desktop\21_06 20h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmImprimirEtiqueta.resources
+C:\Users\Liam\Desktop\21_06 20h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmMenuFracionamento.resources
+C:\Users\Liam\Desktop\21_06 20h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmRegistrarFracionamento.resources
+C:\Users\Liam\Desktop\21_06 20h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmAdministrador.resources
+C:\Users\Liam\Desktop\21_06 20h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmEmailDoador.resources
+C:\Users\Liam\Desktop\21_06 20h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Funcionario.frmEditarFuncionario.resources
+C:\Users\Liam\Desktop\21_06 20h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmFuncionarios.resources
+C:\Users\Liam\Desktop\21_06 20h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmPrincipal.resources
+C:\Users\Liam\Desktop\21_06 20h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmLogin.resources
+C:\Users\Liam\Desktop\21_06 20h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Funcionario.frmNovoFuncionario.resources
+C:\Users\Liam\Desktop\21_06 20h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Funcionario.frmTrocarSenha.resources
+C:\Users\Liam\Desktop\21_06 20h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.ImunoHematologia.frmImunoHematologia.resources
+C:\Users\Liam\Desktop\21_06 20h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.ImunoHematologia.frmRegistrarImunoHematologia.resources
+C:\Users\Liam\Desktop\21_06 20h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmConfirmarPreTriagem.resources
+C:\Users\Liam\Desktop\21_06 20h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmPreTriagem.resources
+C:\Users\Liam\Desktop\21_06 20h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmPreTriagemDoador.resources
+C:\Users\Liam\Desktop\21_06 20h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Properties.Resources.resources
+C:\Users\Liam\Desktop\21_06 20h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmBuscarDoador.resources
+C:\Users\Liam\Desktop\21_06 20h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmCadastrarDoador.resources
+C:\Users\Liam\Desktop\21_06 20h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmNovaDoacao.resources
+C:\Users\Liam\Desktop\21_06 20h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmRecepcao.resources
+C:\Users\Liam\Desktop\21_06 20h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sala_de_Coleta.frmBolsaColetada.resources
+C:\Users\Liam\Desktop\21_06 20h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sala_de_Coleta.frmSalaDeColeta.resources
+C:\Users\Liam\Desktop\21_06 20h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sorologia.frmResultadosSorologia.resources
+C:\Users\Liam\Desktop\21_06 20h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sorologia.frmSorologia.resources
+C:\Users\Liam\Desktop\21_06 20h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Triagem.frmTriagem.resources
+C:\Users\Liam\Desktop\21_06 20h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Triagem.frmTriagemDoador.resources
+C:\Users\Liam\Desktop\21_06 20h55\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csproj.GenerateResource.Cache
+C:\Users\Liam\Desktop\21_06 20h55\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.exe
+C:\Users\Liam\Desktop\21_06 20h55\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.pdb
+C:\Users\Liam\Desktop\22_06 12h30\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.exe
+C:\Users\Liam\Desktop\22_06 12h30\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.pdb
+C:\Users\Liam\Desktop\22_06 12h30\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csprojResolveAssemblyReference.cache
+C:\Users\Liam\Desktop\22_06 12h30\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Distribuicao.frmRegistrarSaida.resources
+C:\Users\Liam\Desktop\22_06 12h30\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Distribuicao.frmBuscarBolsa.resources
+C:\Users\Liam\Desktop\22_06 12h30\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Email.frmVerificarEmail.resources
+C:\Users\Liam\Desktop\22_06 12h30\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Estoque_de_Bolsas.frmNotificacaoBolsa.resources
+C:\Users\Liam\Desktop\22_06 12h30\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Estoque_de_Bolsas.frmEstoque.resources
+C:\Users\Liam\Desktop\22_06 12h30\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmFracionamento.resources
+C:\Users\Liam\Desktop\22_06 12h30\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmImprimirEtiqueta.resources
+C:\Users\Liam\Desktop\22_06 12h30\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmMenuFracionamento.resources
+C:\Users\Liam\Desktop\22_06 12h30\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmRegistrarFracionamento.resources
+C:\Users\Liam\Desktop\22_06 12h30\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmAdministrador.resources
+C:\Users\Liam\Desktop\22_06 12h30\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmEmailDoador.resources
+C:\Users\Liam\Desktop\22_06 12h30\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Funcionario.frmEditarFuncionario.resources
+C:\Users\Liam\Desktop\22_06 12h30\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmFuncionarios.resources
+C:\Users\Liam\Desktop\22_06 12h30\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmPrincipal.resources
+C:\Users\Liam\Desktop\22_06 12h30\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmLogin.resources
+C:\Users\Liam\Desktop\22_06 12h30\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Funcionario.frmNovoFuncionario.resources
+C:\Users\Liam\Desktop\22_06 12h30\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Funcionario.frmTrocarSenha.resources
+C:\Users\Liam\Desktop\22_06 12h30\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.ImunoHematologia.frmImunoHematologia.resources
+C:\Users\Liam\Desktop\22_06 12h30\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.ImunoHematologia.frmRegistrarImunoHematologia.resources
+C:\Users\Liam\Desktop\22_06 12h30\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmConfirmarPreTriagem.resources
+C:\Users\Liam\Desktop\22_06 12h30\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmPreTriagem.resources
+C:\Users\Liam\Desktop\22_06 12h30\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmPreTriagemDoador.resources
+C:\Users\Liam\Desktop\22_06 12h30\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Properties.Resources.resources
+C:\Users\Liam\Desktop\22_06 12h30\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmBuscarDoador.resources
+C:\Users\Liam\Desktop\22_06 12h30\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmCadastrarDoador.resources
+C:\Users\Liam\Desktop\22_06 12h30\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmNovaDoacao.resources
+C:\Users\Liam\Desktop\22_06 12h30\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmRecepcao.resources
+C:\Users\Liam\Desktop\22_06 12h30\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sala_de_Coleta.frmBolsaColetada.resources
+C:\Users\Liam\Desktop\22_06 12h30\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sala_de_Coleta.frmSalaDeColeta.resources
+C:\Users\Liam\Desktop\22_06 12h30\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sorologia.frmResultadosSorologia.resources
+C:\Users\Liam\Desktop\22_06 12h30\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sorologia.frmSorologia.resources
+C:\Users\Liam\Desktop\22_06 12h30\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Triagem.frmTriagem.resources
+C:\Users\Liam\Desktop\22_06 12h30\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Triagem.frmTriagemDoador.resources
+C:\Users\Liam\Desktop\22_06 12h30\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csproj.GenerateResource.Cache
+C:\Users\Liam\Desktop\22_06 12h30\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.exe
+C:\Users\Liam\Desktop\22_06 12h30\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.pdb
+C:\Users\Liam\Desktop\22_06 12h30\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.Historico.frmSelecionarHistorico.resources
+C:\Users\Liam\Desktop\22_06 12h30\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.Historico.frmHistorico.resources
+C:\Users\Liam\Desktop\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.exe
+C:\Users\Liam\Desktop\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.pdb
+C:\Users\Liam\Desktop\23_06 05h57\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.exe
+C:\Users\Liam\Desktop\23_06 05h57\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.pdb
+C:\Users\Liam\Desktop\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csprojResolveAssemblyReference.cache
+C:\Users\Liam\Desktop\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Distribuicao.frmRegistrarSaida.resources
+C:\Users\Liam\Desktop\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Distribuicao.frmBuscarBolsa.resources
+C:\Users\Liam\Desktop\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Email.frmVerificarEmail.resources
+C:\Users\Liam\Desktop\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Estoque_de_Bolsas.frmNotificacaoBolsa.resources
+C:\Users\Liam\Desktop\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Estoque_de_Bolsas.frmEstoque.resources
+C:\Users\Liam\Desktop\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmFracionamento.resources
+C:\Users\Liam\Desktop\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmImprimirEtiqueta.resources
+C:\Users\Liam\Desktop\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmMenuFracionamento.resources
+C:\Users\Liam\Desktop\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmRegistrarFracionamento.resources
+C:\Users\Liam\Desktop\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmAdministrador.resources
+C:\Users\Liam\Desktop\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmEmailDoador.resources
+C:\Users\Liam\Desktop\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Funcionario.frmEditarFuncionario.resources
+C:\Users\Liam\Desktop\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmFuncionarios.resources
+C:\Users\Liam\Desktop\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmPrincipal.resources
+C:\Users\Liam\Desktop\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmLogin.resources
+C:\Users\Liam\Desktop\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Funcionario.frmNovoFuncionario.resources
+C:\Users\Liam\Desktop\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Funcionario.frmTrocarSenha.resources
+C:\Users\Liam\Desktop\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.ImunoHematologia.frmImunoHematologia.resources
+C:\Users\Liam\Desktop\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.ImunoHematologia.frmRegistrarImunoHematologia.resources
+C:\Users\Liam\Desktop\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmConfirmarPreTriagem.resources
+C:\Users\Liam\Desktop\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmPreTriagem.resources
+C:\Users\Liam\Desktop\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmPreTriagemDoador.resources
+C:\Users\Liam\Desktop\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Properties.Resources.resources
+C:\Users\Liam\Desktop\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmBuscarDoador.resources
+C:\Users\Liam\Desktop\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmCadastrarDoador.resources
+C:\Users\Liam\Desktop\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmNovaDoacao.resources
+C:\Users\Liam\Desktop\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmRecepcao.resources
+C:\Users\Liam\Desktop\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.Historico.frmHistorico.resources
+C:\Users\Liam\Desktop\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.Historico.frmSelecionarHistorico.resources
+C:\Users\Liam\Desktop\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sala_de_Coleta.frmBolsaColetada.resources
+C:\Users\Liam\Desktop\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sala_de_Coleta.frmSalaDeColeta.resources
+C:\Users\Liam\Desktop\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sorologia.frmResultadosSorologia.resources
+C:\Users\Liam\Desktop\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sorologia.frmSorologia.resources
+C:\Users\Liam\Desktop\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Triagem.frmTriagem.resources
+C:\Users\Liam\Desktop\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Triagem.frmTriagemDoador.resources
+C:\Users\Liam\Desktop\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csproj.GenerateResource.Cache
+G:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.exe
+G:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.pdb
+G:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csprojResolveAssemblyReference.cache
+G:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Distribuicao.frmRegistrarSaida.resources
+G:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Distribuicao.frmBuscarBolsa.resources
+G:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Email.frmVerificarEmail.resources
+G:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Estoque_de_Bolsas.frmNotificacaoBolsa.resources
+G:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Estoque_de_Bolsas.frmEstoque.resources
+G:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmFracionamento.resources
+G:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmImprimirEtiqueta.resources
+G:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmMenuFracionamento.resources
+G:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmRegistrarFracionamento.resources
+G:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmAdministrador.resources
+G:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmEmailDoador.resources
+G:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Funcionario.frmEditarFuncionario.resources
+G:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmFuncionarios.resources
+G:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmPrincipal.resources
+G:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmLogin.resources
+G:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Funcionario.frmNovoFuncionario.resources
+G:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Funcionario.frmTrocarSenha.resources
+G:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.ImunoHematologia.frmImunoHematologia.resources
+G:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.ImunoHematologia.frmRegistrarImunoHematologia.resources
+G:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmConfirmarPreTriagem.resources
+G:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmPreTriagem.resources
+G:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmPreTriagemDoador.resources
+G:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Properties.Resources.resources
+G:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmBuscarDoador.resources
+G:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmCadastrarDoador.resources
+G:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmNovaDoacao.resources
+G:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmRecepcao.resources
+G:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.Historico.frmHistorico.resources
+G:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.Historico.frmSelecionarHistorico.resources
+G:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.RELATORIOWSSS.frmRelatoriosDoacoes.resources
+G:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sala_de_Coleta.frmBolsaColetada.resources
+G:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sala_de_Coleta.frmSalaDeColeta.resources
+G:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sorologia.frmResultadosSorologia.resources
+G:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sorologia.frmSorologia.resources
+G:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Triagem.frmTriagem.resources
+G:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Triagem.frmTriagemDoador.resources
+G:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csproj.GenerateResource.Cache
+G:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\23_06 05h57\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.exe
+G:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\23_06 05h57\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.pdb
+M:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.exe
+M:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.pdb
+M:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\23_06 05h57\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.exe
+M:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\23_06 05h57\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.pdb
+M:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\23_06 05h57\prj_Hemolab\prj_Hemolab\bin\Debug\MySql.Data.dll
+M:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csprojResolveAssemblyReference.cache
+M:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Distribuicao.frmRegistrarSaida.resources
+M:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Distribuicao.frmBuscarBolsa.resources
+M:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Email.frmVerificarEmail.resources
+M:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Estoque_de_Bolsas.frmNotificacaoBolsa.resources
+M:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Estoque_de_Bolsas.frmEstoque.resources
+M:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmFracionamento.resources
+M:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmImprimirEtiqueta.resources
+M:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmMenuFracionamento.resources
+M:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmRegistrarFracionamento.resources
+M:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmAdministrador.resources
+M:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmEmailDoador.resources
+M:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Funcionario.frmEditarFuncionario.resources
+M:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmFuncionarios.resources
+M:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmPrincipal.resources
+M:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmLogin.resources
+M:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Funcionario.frmNovoFuncionario.resources
+M:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Funcionario.frmTrocarSenha.resources
+M:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.ImunoHematologia.frmImunoHematologia.resources
+M:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.ImunoHematologia.frmRegistrarImunoHematologia.resources
+M:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmConfirmarPreTriagem.resources
+M:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmPreTriagem.resources
+M:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmPreTriagemDoador.resources
+M:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Properties.Resources.resources
+M:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmBuscarDoador.resources
+M:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmCadastrarDoador.resources
+M:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmNovaDoacao.resources
+M:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmRecepcao.resources
+M:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.Historico.frmHistorico.resources
+M:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.Historico.frmSelecionarHistorico.resources
+M:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.RELATORIOWSSS.frmRelatoriosDoacoes.resources
+M:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sala_de_Coleta.frmBolsaColetada.resources
+M:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sala_de_Coleta.frmSalaDeColeta.resources
+M:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sorologia.frmResultadosSorologia.resources
+M:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sorologia.frmSorologia.resources
+M:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Triagem.frmTriagem.resources
+M:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Triagem.frmTriagemDoador.resources
+M:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\23_06 05h57\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csproj.GenerateResource.Cache
+D:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.exe
+D:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.pdb
+D:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\26_06 15h07\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.exe
+D:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\26_06 15h07\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.pdb
+D:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csprojResolveAssemblyReference.cache
+D:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Distribuicao.frmRegistrarSaida.resources
+D:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Distribuicao.frmBuscarBolsa.resources
+D:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Email.frmVerificarEmail.resources
+D:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Estoque_de_Bolsas.frmNotificacaoBolsa.resources
+D:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Estoque_de_Bolsas.frmEstoque.resources
+D:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmFracionamento.resources
+D:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmRegistrarFracionamento.resources
+D:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmAdministrador.resources
+D:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmEmailDoador.resources
+D:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Funcionario.frmEditarFuncionario.resources
+D:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmFuncionarios.resources
+D:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmPrincipal.resources
+D:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmLogin.resources
+D:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Funcionario.frmNovoFuncionario.resources
+D:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Funcionario.frmTrocarSenha.resources
+D:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.ImunoHematologia.frmImunoHematologia.resources
+D:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.ImunoHematologia.frmRegistrarImunoHematologia.resources
+D:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmConfirmarPreTriagem.resources
+D:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmPreTriagem.resources
+D:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmPreTriagemDoador.resources
+D:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Properties.Resources.resources
+D:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmBuscarDoador.resources
+D:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmCadastrarDoador.resources
+D:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmNovaDoacao.resources
+D:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmRecepcao.resources
+D:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.Historico.frmHistorico.resources
+D:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.Historico.frmSelecionarHistorico.resources
+D:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.RELATORIOWSSS.frmRelatoriosDoacoes.resources
+D:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sala_de_Coleta.frmBolsaColetada.resources
+D:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sala_de_Coleta.frmSalaDeColeta.resources
+D:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sorologia.frmResultadosSorologia.resources
+D:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sorologia.frmSorologia.resources
+D:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Triagem.frmTriagem.resources
+D:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Triagem.frmTriagemDoador.resources
+D:\TCC\HEMOLAB\05 - Projeto WindowsForm\Junho\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csproj.GenerateResource.Cache
+C:\Users\28753\Desktop\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.exe
+C:\Users\28753\Desktop\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.pdb
+C:\Users\28753\Desktop\26_06 15h07\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.exe
+C:\Users\28753\Desktop\26_06 15h07\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.pdb
+C:\Users\28753\Desktop\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csprojResolveAssemblyReference.cache
+C:\Users\28753\Desktop\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Distribuicao.frmRegistrarSaida.resources
+C:\Users\28753\Desktop\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Distribuicao.frmBuscarBolsa.resources
+C:\Users\28753\Desktop\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Email.frmVerificarEmail.resources
+C:\Users\28753\Desktop\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Estoque_de_Bolsas.frmNotificacaoBolsa.resources
+C:\Users\28753\Desktop\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Estoque_de_Bolsas.frmEstoque.resources
+C:\Users\28753\Desktop\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmFracionamento.resources
+C:\Users\28753\Desktop\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmRegistrarFracionamento.resources
+C:\Users\28753\Desktop\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmAdministrador.resources
+C:\Users\28753\Desktop\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmEmailDoador.resources
+C:\Users\28753\Desktop\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Funcionario.frmEditarFuncionario.resources
+C:\Users\28753\Desktop\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmFuncionarios.resources
+C:\Users\28753\Desktop\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmPrincipal.resources
+C:\Users\28753\Desktop\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmLogin.resources
+C:\Users\28753\Desktop\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Funcionario.frmNovoFuncionario.resources
+C:\Users\28753\Desktop\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Funcionario.frmTrocarSenha.resources
+C:\Users\28753\Desktop\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.ImunoHematologia.frmImunoHematologia.resources
+C:\Users\28753\Desktop\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.ImunoHematologia.frmRegistrarImunoHematologia.resources
+C:\Users\28753\Desktop\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmConfirmarPreTriagem.resources
+C:\Users\28753\Desktop\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmPreTriagem.resources
+C:\Users\28753\Desktop\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmPreTriagemDoador.resources
+C:\Users\28753\Desktop\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Properties.Resources.resources
+C:\Users\28753\Desktop\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmBuscarDoador.resources
+C:\Users\28753\Desktop\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmCadastrarDoador.resources
+C:\Users\28753\Desktop\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmNovaDoacao.resources
+C:\Users\28753\Desktop\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmRecepcao.resources
+C:\Users\28753\Desktop\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.Historico.frmHistorico.resources
+C:\Users\28753\Desktop\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.Historico.frmSelecionarHistorico.resources
+C:\Users\28753\Desktop\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.RELATORIOWSSS.frmRelatoriosDoacoes.resources
+C:\Users\28753\Desktop\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sala_de_Coleta.frmBolsaColetada.resources
+C:\Users\28753\Desktop\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sala_de_Coleta.frmSalaDeColeta.resources
+C:\Users\28753\Desktop\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sorologia.frmResultadosSorologia.resources
+C:\Users\28753\Desktop\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sorologia.frmSorologia.resources
+C:\Users\28753\Desktop\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Triagem.frmTriagem.resources
+C:\Users\28753\Desktop\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Triagem.frmTriagemDoador.resources
+C:\Users\28753\Desktop\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csproj.GenerateResource.Cache
+C:\Users\28922\Desktop\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.exe
+C:\Users\28922\Desktop\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.pdb
+C:\Users\28922\Desktop\26_06 15h07\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.exe
+C:\Users\28922\Desktop\26_06 15h07\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.pdb
+C:\Users\28922\Desktop\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csprojResolveAssemblyReference.cache
+C:\Users\28922\Desktop\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Distribuicao.frmRegistrarSaida.resources
+C:\Users\28922\Desktop\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Distribuicao.frmBuscarBolsa.resources
+C:\Users\28922\Desktop\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Email.frmVerificarEmail.resources
+C:\Users\28922\Desktop\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Estoque_de_Bolsas.frmNotificacaoBolsa.resources
+C:\Users\28922\Desktop\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Estoque_de_Bolsas.frmEstoque.resources
+C:\Users\28922\Desktop\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmFracionamento.resources
+C:\Users\28922\Desktop\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmRegistrarFracionamento.resources
+C:\Users\28922\Desktop\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmAdministrador.resources
+C:\Users\28922\Desktop\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmEmailDoador.resources
+C:\Users\28922\Desktop\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Funcionario.frmEditarFuncionario.resources
+C:\Users\28922\Desktop\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmFuncionarios.resources
+C:\Users\28922\Desktop\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmPrincipal.resources
+C:\Users\28922\Desktop\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmLogin.resources
+C:\Users\28922\Desktop\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Funcionario.frmNovoFuncionario.resources
+C:\Users\28922\Desktop\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Funcionario.frmTrocarSenha.resources
+C:\Users\28922\Desktop\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.ImunoHematologia.frmImunoHematologia.resources
+C:\Users\28922\Desktop\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.ImunoHematologia.frmRegistrarImunoHematologia.resources
+C:\Users\28922\Desktop\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmConfirmarPreTriagem.resources
+C:\Users\28922\Desktop\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmPreTriagem.resources
+C:\Users\28922\Desktop\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmPreTriagemDoador.resources
+C:\Users\28922\Desktop\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Properties.Resources.resources
+C:\Users\28922\Desktop\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmBuscarDoador.resources
+C:\Users\28922\Desktop\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmCadastrarDoador.resources
+C:\Users\28922\Desktop\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmNovaDoacao.resources
+C:\Users\28922\Desktop\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmRecepcao.resources
+C:\Users\28922\Desktop\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.Historico.frmHistorico.resources
+C:\Users\28922\Desktop\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.Historico.frmSelecionarHistorico.resources
+C:\Users\28922\Desktop\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.RELATORIOWSSS.frmRelatoriosDoacoes.resources
+C:\Users\28922\Desktop\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sala_de_Coleta.frmBolsaColetada.resources
+C:\Users\28922\Desktop\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sala_de_Coleta.frmSalaDeColeta.resources
+C:\Users\28922\Desktop\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sorologia.frmResultadosSorologia.resources
+C:\Users\28922\Desktop\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sorologia.frmSorologia.resources
+C:\Users\28922\Desktop\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Triagem.frmTriagem.resources
+C:\Users\28922\Desktop\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Triagem.frmTriagemDoador.resources
+C:\Users\28922\Desktop\26_06 15h07\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csproj.GenerateResource.Cache
+C:\Users\28753\Desktop\27_06 17h25\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.exe
+C:\Users\28753\Desktop\27_06 17h25\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.pdb
+G:\27_06 17h25\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.exe
+G:\27_06 17h25\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.pdb
+G:\27_06 17h25\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csprojResolveAssemblyReference.cache
+G:\27_06 17h25\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Distribuicao.frmRegistrarSaida.resources
+G:\27_06 17h25\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Distribuicao.frmBuscarBolsa.resources
+G:\27_06 17h25\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Email.frmVerificarEmail.resources
+G:\27_06 17h25\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Estoque_de_Bolsas.frmNotificacaoBolsa.resources
+G:\27_06 17h25\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Estoque_de_Bolsas.frmEstoque.resources
+G:\27_06 17h25\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmFracionamento.resources
+G:\27_06 17h25\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmRegistrarFracionamento.resources
+G:\27_06 17h25\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmAdministrador.resources
+G:\27_06 17h25\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmEmailDoador.resources
+G:\27_06 17h25\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Funcionario.frmEditarFuncionario.resources
+G:\27_06 17h25\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmFuncionarios.resources
+G:\27_06 17h25\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmPrincipal.resources
+G:\27_06 17h25\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmLogin.resources
+G:\27_06 17h25\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Funcionario.frmNovoFuncionario.resources
+G:\27_06 17h25\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Funcionario.frmTrocarSenha.resources
+G:\27_06 17h25\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.ImunoHematologia.frmImunoHematologia.resources
+G:\27_06 17h25\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.ImunoHematologia.frmRegistrarImunoHematologia.resources
+G:\27_06 17h25\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmConfirmarPreTriagem.resources
+G:\27_06 17h25\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmPreTriagem.resources
+G:\27_06 17h25\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmPreTriagemDoador.resources
+G:\27_06 17h25\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Properties.Resources.resources
+G:\27_06 17h25\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmBuscarDoador.resources
+G:\27_06 17h25\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmCadastrarDoador.resources
+G:\27_06 17h25\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmNovaDoacao.resources
+G:\27_06 17h25\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmRecepcao.resources
+G:\27_06 17h25\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.Historico.frmHistorico.resources
+G:\27_06 17h25\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.Historico.frmSelecionarHistorico.resources
+G:\27_06 17h25\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.RELATORIOWSSS.frmRelatoriosDoacoes.resources
+G:\27_06 17h25\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sala_de_Coleta.frmBolsaColetada.resources
+G:\27_06 17h25\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sala_de_Coleta.frmSalaDeColeta.resources
+G:\27_06 17h25\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sorologia.frmResultadosSorologia.resources
+G:\27_06 17h25\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sorologia.frmSorologia.resources
+G:\27_06 17h25\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Triagem.frmTriagem.resources
+G:\27_06 17h25\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Triagem.frmTriagemDoador.resources
+G:\27_06 17h25\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csproj.GenerateResource.Cache
+G:\27_06 17h25\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.exe
+G:\27_06 17h25\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.pdb
+L:\27_06 17h25\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.exe
+L:\27_06 17h25\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.pdb
+L:\27_06 17h25\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.exe
+L:\27_06 17h25\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.pdb
+L:\27_06 17h25\prj_Hemolab\prj_Hemolab\bin\Debug\MySql.Data.dll
+L:\27_06 17h25\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csprojResolveAssemblyReference.cache
+L:\27_06 17h25\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Distribuicao.frmRegistrarSaida.resources
+L:\27_06 17h25\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Distribuicao.frmBuscarBolsa.resources
+L:\27_06 17h25\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Email.frmVerificarEmail.resources
+L:\27_06 17h25\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Estoque_de_Bolsas.frmNotificacaoBolsa.resources
+L:\27_06 17h25\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Estoque_de_Bolsas.frmEstoque.resources
+L:\27_06 17h25\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmFracionamento.resources
+L:\27_06 17h25\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmRegistrarFracionamento.resources
+L:\27_06 17h25\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmAdministrador.resources
+L:\27_06 17h25\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmEmailDoador.resources
+L:\27_06 17h25\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Funcionario.frmEditarFuncionario.resources
+L:\27_06 17h25\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmFuncionarios.resources
+L:\27_06 17h25\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmPrincipal.resources
+L:\27_06 17h25\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmLogin.resources
+L:\27_06 17h25\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Funcionario.frmNovoFuncionario.resources
+L:\27_06 17h25\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Funcionario.frmTrocarSenha.resources
+L:\27_06 17h25\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.ImunoHematologia.frmImunoHematologia.resources
+L:\27_06 17h25\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.ImunoHematologia.frmRegistrarImunoHematologia.resources
+L:\27_06 17h25\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmConfirmarPreTriagem.resources
+L:\27_06 17h25\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmPreTriagem.resources
+L:\27_06 17h25\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmPreTriagemDoador.resources
+L:\27_06 17h25\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Properties.Resources.resources
+L:\27_06 17h25\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmBuscarDoador.resources
+L:\27_06 17h25\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmCadastrarDoador.resources
+L:\27_06 17h25\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmNovaDoacao.resources
+L:\27_06 17h25\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmRecepcao.resources
+L:\27_06 17h25\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.Historico.frmHistorico.resources
+L:\27_06 17h25\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.Historico.frmSelecionarHistorico.resources
+L:\27_06 17h25\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.RELATORIOWSSS.frmRelatoriosDoacoes.resources
+L:\27_06 17h25\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sala_de_Coleta.frmBolsaColetada.resources
+L:\27_06 17h25\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sala_de_Coleta.frmSalaDeColeta.resources
+L:\27_06 17h25\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sorologia.frmResultadosSorologia.resources
+L:\27_06 17h25\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sorologia.frmSorologia.resources
+L:\27_06 17h25\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Triagem.frmTriagem.resources
+L:\27_06 17h25\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Triagem.frmTriagemDoador.resources
+L:\27_06 17h25\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csproj.GenerateResource.Cache
+D:\Hemolab\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.exe
+D:\Hemolab\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.pdb
+D:\Hemolab\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.exe
+D:\Hemolab\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.pdb
+D:\Hemolab\prj_Hemolab\prj_Hemolab\bin\Debug\MySql.Data.dll
+D:\Hemolab\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csprojResolveAssemblyReference.cache
+D:\Hemolab\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Distribuicao.frmRegistrarSaida.resources
+D:\Hemolab\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Distribuicao.frmBuscarBolsa.resources
+D:\Hemolab\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Email.frmVerificarEmail.resources
+D:\Hemolab\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Estoque_de_Bolsas.frmNotificacaoBolsa.resources
+D:\Hemolab\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Estoque_de_Bolsas.frmEstoque.resources
+D:\Hemolab\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmFracionamento.resources
+D:\Hemolab\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmRegistrarFracionamento.resources
+D:\Hemolab\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmAdministrador.resources
+D:\Hemolab\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmEmailDoador.resources
+D:\Hemolab\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Funcionario.frmEditarFuncionario.resources
+D:\Hemolab\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmFuncionarios.resources
+D:\Hemolab\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmPrincipal.resources
+D:\Hemolab\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmLogin.resources
+D:\Hemolab\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Funcionario.frmNovoFuncionario.resources
+D:\Hemolab\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Funcionario.frmTrocarSenha.resources
+D:\Hemolab\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.ImunoHematologia.frmImunoHematologia.resources
+D:\Hemolab\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.ImunoHematologia.frmRegistrarImunoHematologia.resources
+D:\Hemolab\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmConfirmarPreTriagem.resources
+D:\Hemolab\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmPreTriagem.resources
+D:\Hemolab\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmPreTriagemDoador.resources
+D:\Hemolab\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Properties.Resources.resources
+D:\Hemolab\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmBuscarDoador.resources
+D:\Hemolab\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmCadastrarDoador.resources
+D:\Hemolab\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmNovaDoacao.resources
+D:\Hemolab\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmRecepcao.resources
+D:\Hemolab\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.Historico.frmHistorico.resources
+D:\Hemolab\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.Historico.frmSelecionarHistorico.resources
+D:\Hemolab\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.RELATORIOWSSS.frmRelatoriosDoacoes.resources
+D:\Hemolab\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sala_de_Coleta.frmBolsaColetada.resources
+D:\Hemolab\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sala_de_Coleta.frmSalaDeColeta.resources
+D:\Hemolab\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sorologia.frmResultadosSorologia.resources
+D:\Hemolab\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sorologia.frmSorologia.resources
+D:\Hemolab\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Triagem.frmTriagem.resources
+D:\Hemolab\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Triagem.frmTriagemDoador.resources
+D:\Hemolab\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csproj.GenerateResource.Cache
+D:\TCC\FINAL\Sistema\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.exe
+D:\TCC\FINAL\Sistema\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.pdb
+D:\TCC\FINAL\Sistema\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.exe
+D:\TCC\FINAL\Sistema\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.pdb
+D:\TCC\FINAL\Sistema\prj_Hemolab\prj_Hemolab\bin\Debug\MySql.Data.dll
+D:\TCC\FINAL\Sistema\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csprojResolveAssemblyReference.cache
+D:\TCC\FINAL\Sistema\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Distribuicao.frmRegistrarSaida.resources
+D:\TCC\FINAL\Sistema\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Distribuicao.frmBuscarBolsa.resources
+D:\TCC\FINAL\Sistema\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Email.frmVerificarEmail.resources
+D:\TCC\FINAL\Sistema\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Estoque_de_Bolsas.frmNotificacaoBolsa.resources
+D:\TCC\FINAL\Sistema\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Estoque_de_Bolsas.frmEstoque.resources
+D:\TCC\FINAL\Sistema\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmFracionamento.resources
+D:\TCC\FINAL\Sistema\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmRegistrarFracionamento.resources
+D:\TCC\FINAL\Sistema\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmAdministrador.resources
+D:\TCC\FINAL\Sistema\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmEmailDoador.resources
+D:\TCC\FINAL\Sistema\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Funcionario.frmEditarFuncionario.resources
+D:\TCC\FINAL\Sistema\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmFuncionarios.resources
+D:\TCC\FINAL\Sistema\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmPrincipal.resources
+D:\TCC\FINAL\Sistema\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmLogin.resources
+D:\TCC\FINAL\Sistema\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Funcionario.frmNovoFuncionario.resources
+D:\TCC\FINAL\Sistema\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Funcionario.frmTrocarSenha.resources
+D:\TCC\FINAL\Sistema\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.ImunoHematologia.frmImunoHematologia.resources
+D:\TCC\FINAL\Sistema\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.ImunoHematologia.frmRegistrarImunoHematologia.resources
+D:\TCC\FINAL\Sistema\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmConfirmarPreTriagem.resources
+D:\TCC\FINAL\Sistema\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmPreTriagem.resources
+D:\TCC\FINAL\Sistema\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmPreTriagemDoador.resources
+D:\TCC\FINAL\Sistema\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Properties.Resources.resources
+D:\TCC\FINAL\Sistema\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmBuscarDoador.resources
+D:\TCC\FINAL\Sistema\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmCadastrarDoador.resources
+D:\TCC\FINAL\Sistema\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmNovaDoacao.resources
+D:\TCC\FINAL\Sistema\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmRecepcao.resources
+D:\TCC\FINAL\Sistema\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.Historico.frmHistorico.resources
+D:\TCC\FINAL\Sistema\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.Historico.frmSelecionarHistorico.resources
+D:\TCC\FINAL\Sistema\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.RELATORIOWSSS.frmRelatoriosDoacoes.resources
+D:\TCC\FINAL\Sistema\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sala_de_Coleta.frmBolsaColetada.resources
+D:\TCC\FINAL\Sistema\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sala_de_Coleta.frmSalaDeColeta.resources
+D:\TCC\FINAL\Sistema\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sorologia.frmResultadosSorologia.resources
+D:\TCC\FINAL\Sistema\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sorologia.frmSorologia.resources
+D:\TCC\FINAL\Sistema\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Triagem.frmTriagem.resources
+D:\TCC\FINAL\Sistema\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Triagem.frmTriagemDoador.resources
+D:\TCC\FINAL\Sistema\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csproj.GenerateResource.Cache
+C:\Users\izzy\Documents\Liam\TCC\Sistema\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csprojAssemblyReference.cache
+C:\Users\izzy\Documents\Liam\TCC\Sistema\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Distribuicao.frmRegistrarSaida.resources
+C:\Users\izzy\Documents\Liam\TCC\Sistema\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Distribuicao.frmBuscarBolsa.resources
+C:\Users\izzy\Documents\Liam\TCC\Sistema\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Email.frmVerificarEmail.resources
+C:\Users\izzy\Documents\Liam\TCC\Sistema\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Estoque_de_Bolsas.frmNotificacaoBolsa.resources
+C:\Users\izzy\Documents\Liam\TCC\Sistema\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Estoque_de_Bolsas.frmEstoque.resources
+C:\Users\izzy\Documents\Liam\TCC\Sistema\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmFracionamento.resources
+C:\Users\izzy\Documents\Liam\TCC\Sistema\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Fracionamento.frmRegistrarFracionamento.resources
+C:\Users\izzy\Documents\Liam\TCC\Sistema\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmAdministrador.resources
+C:\Users\izzy\Documents\Liam\TCC\Sistema\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmEmailDoador.resources
+C:\Users\izzy\Documents\Liam\TCC\Sistema\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Funcionario.frmEditarFuncionario.resources
+C:\Users\izzy\Documents\Liam\TCC\Sistema\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmFuncionarios.resources
+C:\Users\izzy\Documents\Liam\TCC\Sistema\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmPrincipal.resources
+C:\Users\izzy\Documents\Liam\TCC\Sistema\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmLogin.resources
+C:\Users\izzy\Documents\Liam\TCC\Sistema\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Funcionario.frmNovoFuncionario.resources
+C:\Users\izzy\Documents\Liam\TCC\Sistema\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Funcionario.frmTrocarSenha.resources
+C:\Users\izzy\Documents\Liam\TCC\Sistema\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.ImunoHematologia.frmImunoHematologia.resources
+C:\Users\izzy\Documents\Liam\TCC\Sistema\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.ImunoHematologia.frmRegistrarImunoHematologia.resources
+C:\Users\izzy\Documents\Liam\TCC\Sistema\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmConfirmarPreTriagem.resources
+C:\Users\izzy\Documents\Liam\TCC\Sistema\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmPreTriagem.resources
+C:\Users\izzy\Documents\Liam\TCC\Sistema\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Pre_Triagem.frmPreTriagemDoador.resources
+C:\Users\izzy\Documents\Liam\TCC\Sistema\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Properties.Resources.resources
+C:\Users\izzy\Documents\Liam\TCC\Sistema\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmBuscarDoador.resources
+C:\Users\izzy\Documents\Liam\TCC\Sistema\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmCadastrarDoador.resources
+C:\Users\izzy\Documents\Liam\TCC\Sistema\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.frmNovaDoacao.resources
+C:\Users\izzy\Documents\Liam\TCC\Sistema\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.frmRecepcao.resources
+C:\Users\izzy\Documents\Liam\TCC\Sistema\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.Historico.frmHistorico.resources
+C:\Users\izzy\Documents\Liam\TCC\Sistema\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Recepcao.Historico.frmSelecionarHistorico.resources
+C:\Users\izzy\Documents\Liam\TCC\Sistema\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.RELATORIOWSSS.frmRelatoriosDoacoes.resources
+C:\Users\izzy\Documents\Liam\TCC\Sistema\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sala_de_Coleta.frmBolsaColetada.resources
+C:\Users\izzy\Documents\Liam\TCC\Sistema\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sala_de_Coleta.frmSalaDeColeta.resources
+C:\Users\izzy\Documents\Liam\TCC\Sistema\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sorologia.frmResultadosSorologia.resources
+C:\Users\izzy\Documents\Liam\TCC\Sistema\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Sorologia.frmSorologia.resources
+C:\Users\izzy\Documents\Liam\TCC\Sistema\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Triagem.frmTriagem.resources
+C:\Users\izzy\Documents\Liam\TCC\Sistema\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.Triagem.frmTriagemDoador.resources
+C:\Users\izzy\Documents\Liam\TCC\Sistema\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csproj.GenerateResource.cache
+C:\Users\izzy\Documents\Liam\TCC\Sistema\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.exe
+C:\Users\izzy\Documents\Liam\TCC\Sistema\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.pdb
+C:\Users\izzy\Documents\Liam\TCC\Sistema\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.exe
+C:\Users\izzy\Documents\Liam\TCC\Sistema\prj_Hemolab\prj_Hemolab\bin\Debug\prj_Hemolab.pdb
+C:\Users\izzy\Documents\Liam\TCC\Sistema\prj_Hemolab\prj_Hemolab\bin\Debug\MySql.Data.dll
+C:\Users\izzy\Documents\Liam\TCC\Sistema\prj_Hemolab\prj_Hemolab\obj\x86\Debug\prj_Hemolab.csproj.CopyComplete
